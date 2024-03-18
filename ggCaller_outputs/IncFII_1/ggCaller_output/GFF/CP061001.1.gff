@@ -1,0 +1,6 @@
+##gff-version 3
+##sequence-region CP061001.1 1 36423
+CP061001.1	ggCaller:1.3.4	CDS	31985	32842	541.0	+	0	ID=CP061001.1_89;annotation=sp-P03066-REPA2_ECOLX Replication initiation protein OS-Escherichia coli OX-562 GN-repA PE-3 SV-1;inference=annotation
+CP061001.1	ggCaller:1.3.4	CDS	33744	33974	0	+	0	ID=CP061001.1_79;annotation=hypothetical protein;inference=prediction
+CP061001.1	ggCaller:1.3.4	CDS	34259	34456	51.6	-	0	ID=CP061001.1_24;annotation=sp-P08504-TNP5_ECOLX Transposase for transposon Tn2501 OS-Escherichia coli OX-562 GN-tnpA PE-3 SV-1;inference=annotation
+CP061001.1	ggCaller:1.3.4	CDS	35169	35627	0	+	0	ID=CP061001.1_156;annotation=hypothetical protein;inference=prediction

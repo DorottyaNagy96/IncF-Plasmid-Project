@@ -1,0 +1,170 @@
+##gff-version 3
+##sequence-region CP109700.1 1 110995
+CP109700.1	ggCaller:1.3.4	CDS	34	234	121.0	+	0	ID=CP109700.1_696;annotation=sp-O68770-DPO3A_YERPE DNA polymerase III subunit alpha OS-Yersinia pestis OX-632 GN-dnaE PE-3 SV-2;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	404	577	2174.0	-	0	ID=CP109700.1_766;annotation=sp-O68770-DPO3A_YERPE DNA polymerase III subunit alpha OS-Yersinia pestis OX-632 GN-dnaE PE-3 SV-2 potential psuedogene;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	758	1474	0	-	0	ID=CP109700.1_605;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	1417	1989	0	-	0	ID=CP109700.1_132;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	2086	4371	85.9	-	0	ID=CP109700.1_538;annotation=sp-P29934-COBT_SINSX Aerobic cobaltochelatase subunit CobT OS-Sinorhizobium sp. OX-42445 GN-cobT PE-1 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	4487	4699	0	-	0	ID=CP109700.1_896;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	4973	5353	0	+	0	ID=CP109700.1_374;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	4973	5199	0	+	0	ID=CP109700.1_-1101;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	5196	5541	0	+	0	ID=CP109700.1_-1070;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	5348	6448	0	-	0	ID=CP109700.1_653;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	6939	7106	0	-	0	ID=CP109700.1_942;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	7116	7721	0	-	0	ID=CP109700.1_335;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	7334	7694	0	-	0	ID=CP109700.1_-1069;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	7816	8061	86.3	-	0	ID=CP109700.1_726;annotation=sp-P68688-GLRX1_ECOLI Glutaredoxin 1 OS-Escherichia coli strain K12 OX-83333 GN-grxA PE-1 SV-1 sp-P45242-GLRX_HAEIN Glutaredoxin OS-Haemophilus influenzae strain ATCC 51907 / DSM 11121 / KW20 / Rd OX-71421 GN-grxA PE-3 SV-1 sp-P68689-GLRX1_SHIFL Glutaredoxin 1 OS-Shigella flexneri OX-623 GN-grxA PE-3 SV-1 potential psuedogene;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	8058	8444	0	-	0	ID=CP109700.1_855;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	8454	8864	332.0	-	0	ID=CP109700.1_853;annotation=sp-P0A9K1-PHOH_ECOLI Protein PhoH OS-Escherichia coli strain K12 OX-83333 GN-phoH PE-1 SV-1 potential psuedogene;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	9341	10213	0	-	0	ID=CP109700.1_667;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	10335	10541	0	+	0	ID=CP109700.1_111;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	11058	11237	0	-	0	ID=CP109700.1_-1098;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	11419	11721	0	-	0	ID=CP109700.1_482;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	11718	11870	0	-	0	ID=CP109700.1_433;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	11867	12082	0	-	0	ID=CP109700.1_172;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	12066	12245	0	-	0	ID=CP109700.1_37;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	12242	13564	45.4	-	0	ID=CP109700.1_892;annotation=sp-A9R2J1-XNI_YERPG Flap endonuclease Xni OS-Yersinia pestis bv. Antiqua strain Angola OX-349746 GN-xni PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	13564	14031	0	-	0	ID=CP109700.1_103;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	14111	14899	0	-	0	ID=CP109700.1_257;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	15192	15518	0	+	0	ID=CP109700.1_741;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	15515	16357	0	+	0	ID=CP109700.1_330;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	16397	16786	0	-	0	ID=CP109700.1_327;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	16735	17514	0	-	0	ID=CP109700.1_136;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	17822	18043	0	-	0	ID=CP109700.1_-1079;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	17822	19006	0	-	0	ID=CP109700.1_78;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	18837	19014	0	+	0	ID=CP109700.1_-1082;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	19337	19684	0	-	0	ID=CP109700.1_684;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	19828	20004	0	+	0	ID=CP109700.1_26;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	19967	20863	0	-	0	ID=CP109700.1_720;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	20863	21414	0	-	0	ID=CP109700.1_857;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	21429	21728	0	-	0	ID=CP109700.1_137;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	21725	22015	0	-	0	ID=CP109700.1_450;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	22087	22578	0	-	0	ID=CP109700.1_914;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	23045	23428	0	+	0	ID=CP109700.1_384;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	23431	23628	0	+	0	ID=CP109700.1_740;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	23825	24076	0	-	0	ID=CP109700.1_573;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	24079	24651	0	-	0	ID=CP109700.1_112;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	24784	25107	0	-	0	ID=CP109700.1_965;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	25203	26648	0	-	0	ID=CP109700.1_694;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	30930	38870	0	-	0	ID=CP109700.1_612;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	37065	37427	0	+	0	ID=CP109700.1_-1093;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	38887	39498	0	-	0	ID=CP109700.1_122;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	39267	39724	0	-	0	ID=CP109700.1_-1067;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	39486	40505	0	-	0	ID=CP109700.1_407;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	39525	39828	0	+	0	ID=CP109700.1_-1102;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	39721	40056	0	-	0	ID=CP109700.1_-1089;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	40312	40518	0	+	0	ID=CP109700.1_-1081;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	41061	41396	0	-	0	ID=CP109700.1_516;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	41180	41411	0	+	0	ID=CP109700.1_-1077;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	41440	42405	82.0	-	0	ID=CP109700.1_824;annotation=sp-P44236-VG42_HAEIN Mu-like prophage FluMu protein gp42 OS-Haemophilus influenzae strain ATCC 51907 / DSM 11121 / KW20 / Rd OX-71421 GN-HI_1514 PE-4 SV-1 potential psuedogene;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	41826	42096	0	-	0	ID=CP109700.1_-1074;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	42441	45974	82.0	-	0	ID=CP109700.1_42;annotation=sp-P44236-VG42_HAEIN Mu-like prophage FluMu protein gp42 OS-Haemophilus influenzae strain ATCC 51907 / DSM 11121 / KW20 / Rd OX-71421 GN-HI_1514 PE-4 SV-1 potential psuedogene;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	45758	45974	0	-	0	ID=CP109700.1_-1080;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	45799	45974	0	-	0	ID=CP109700.1_-1084;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	45982	46371	0	-	0	ID=CP109700.1_63;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	46258	46481	0	+	0	ID=CP109700.1_-1078;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	46319	46648	0	-	0	ID=CP109700.1_199;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	46710	47456	0	-	0	ID=CP109700.1_721;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	47524	48003	0	-	0	ID=CP109700.1_628;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	47918	48391	0	-	0	ID=CP109700.1_-1104;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	48382	48831	0	-	0	ID=CP109700.1_256;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	48824	49147	0	-	0	ID=CP109700.1_686;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	49119	49658	0	-	0	ID=CP109700.1_587;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	49658	50092	0	-	0	ID=CP109700.1_614;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	49976	50164	0	+	0	ID=CP109700.1_-1103;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	50140	50610	0	-	0	ID=CP109700.1_406;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	50647	51525	0	-	0	ID=CP109700.1_872;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	50802	51057	0	-	0	ID=CP109700.1_-1076;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	51236	51525	0	-	0	ID=CP109700.1_-1092;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	51552	52451	0	-	0	ID=CP109700.1_351;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	52243	52451	0	-	0	ID=CP109700.1_-1091;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	52474	54048	0	-	0	ID=CP109700.1_262;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	54081	55337	47.8	-	0	ID=CP109700.1_746;annotation=sp-A4ITW8-NOC_GEOTN Nucleoid occlusion protein OS-Geobacillus thermodenitrificans strain NG80-2 OX-420246 GN-noc PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	55340	56029	0	-	0	ID=CP109700.1_552;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	55489	55792	0	-	0	ID=CP109700.1_-1072;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	56157	56423	0	-	0	ID=CP109700.1_664;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	56433	57323	0	-	0	ID=CP109700.1_447;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	57320	57871	0	-	0	ID=CP109700.1_246;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	57861	58502	50.4	-	0	ID=CP109700.1_522;annotation=sp-Q82WC8-CCMA_NITEU Cytochrome c biogenesis ATP-binding export protein CcmA OS-Nitrosomonas europaea strain ATCC 19718 / CIP 103999 / KCTC 2705 / NBRC 14298 OX-228410 GN-ccmA PE-3 SV-1 sp-B8D0S4-CYSC_HALOH Adenylyl-sulfate kinase OS-Halothermothrix orenii strain H 168 / OCM 544 / DSM 9562 OX-373903 GN-cysC PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	58499	59167	48.1	-	0	ID=CP109700.1_329;annotation=sp-O83295-PARB_TREPA Probable chromosome-partitioning protein ParB OS-Treponema pallidum strain Nichols OX-243276 GN-parB PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	59167	59871	62.8	-	0	ID=CP109700.1_61;annotation=sp-A4ITW8-NOC_GEOTN Nucleoid occlusion protein OS-Geobacillus thermodenitrificans strain NG80-2 OX-420246 GN-noc PE-3 SV-1 sp-Q9PB63-PARB_XYLFA Probable chromosome-partitioning protein ParB OS-Xylella fastidiosa strain 9a5c OX-160492 GN-parB PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	59931	61490	47.4	+	0	ID=CP109700.1_950;annotation=sp-P64323-RECG_MYCBO ATP-dependent DNA helicase RecG OS-Mycobacterium bovis strain ATCC BAA-935 / AF2122/97 OX-233413 GN-recG PE-3 SV-1 sp-P9WMQ6-RECG_MYCTO ATP-dependent DNA helicase RecG OS-Mycobacterium tuberculosis strain CDC 1551 / Oshkosh OX-83331 GN-recG PE-3 SV-1 sp-P9WMQ7-RECG_MYCTU ATP-dependent DNA helicase RecG OS-Mycobacterium tuberculosis strain ATCC 25618 / H37Rv OX-83332 GN-recG PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	60744	61031	0	-	0	ID=CP109700.1_-1099;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	61493	61768	0	+	0	ID=CP109700.1_627;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	61595	61768	0	+	0	ID=CP109700.1_-1083;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	61819	62256	0	-	0	ID=CP109700.1_229;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	62412	62942	108.0	+	0	ID=CP109700.1_675;annotation=sp-P52618-FLJA_SALAB Repressor of phase 1 flagellin gene OS-Salmonella abony OX-29482 GN-fljA PE-4 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	62952	63251	0	+	0	ID=CP109700.1_165;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	63576	64226	0	+	0	ID=CP109700.1_786;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	64277	64480	0	+	0	ID=CP109700.1_856;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	64760	65014	0	+	0	ID=CP109700.1_-1090;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	65073	65555	0	-	0	ID=CP109700.1_471;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	65761	66042	0	-	0	ID=CP109700.1_235;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	66169	66576	0	-	0	ID=CP109700.1_113;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	66696	67007	0	-	0	ID=CP109700.1_823;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	67144	67356	0	-	0	ID=CP109700.1_861;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	67369	67587	0	-	0	ID=CP109700.1_371;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	67690	68101	0	+	0	ID=CP109700.1_-1068;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	68407	68676	0	+	0	ID=CP109700.1_408;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	69139	69576	0	-	0	ID=CP109700.1_446;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	70143	71084	0	+	0	ID=CP109700.1_9;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	71071	71250	0	-	0	ID=CP109700.1_688;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	71633	72361	0	-	0	ID=CP109700.1_456;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	72423	74108	0	-	0	ID=CP109700.1_123;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	74497	76566	590.0	+	0	ID=CP109700.1_47;annotation=sp-Q00042-TNPX_ECOLI Putative transposon gamma-delta 80.3 kDa protein OS-Escherichia coli strain K12 OX-83333 GN-tnpX PE-4 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	76722	77228	0	-	0	ID=CP109700.1_938;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	77386	77658	207.0	-	0	ID=CP109700.1_299;annotation=sp-B5R449-RNH_SALEP Ribonuclease H OS-Salmonella enteritidis PT4 strain P125109 OX-550537 GN-rnhA PE-3 SV-1 sp-Q6D1V7-RNH_PECAS Ribonuclease H OS-Pectobacterium atrosepticum strain SCRI 1043 / ATCC BAA-672 OX-218491 GN-rnhA PE-3 SV-1 potential psuedogene;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	77829	78776	0	-	0	ID=CP109700.1_24;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	78773	79441	60.1	-	0	ID=CP109700.1_811;annotation=sp-Q9ZJ24-YF88_HELPJ UPF0174 protein jhp_1494 OS-Helicobacter pylori strain J99 / ATCC 700824 OX-85963 GN-jhp_1494 PE-3 SV-1 sp-P75617-YAAW_ECOLI UPF0174 protein YaaW OS-Escherichia coli strain K12 OX-83333 GN-yaaW PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	79913	80089	0	+	0	ID=CP109700.1_924;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	80201	80434	0	-	0	ID=CP109700.1_382;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	80631	81224	0	-	0	ID=CP109700.1_665;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	80917	81243	0	+	0	ID=CP109700.1_-1071;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	81409	82242	0	-	0	ID=CP109700.1_263;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	82368	82916	58.9	-	0	ID=CP109700.1_795;annotation=sp-Q92GL1-DPO3E_RICCN DNA polymerase III subunit epsilon OS-Rickettsia conorii strain ATCC VR-613 / Malish 7 OX-272944 GN-dnaQ PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	82913	83707	0	-	0	ID=CP109700.1_636;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	83983	84135	0	-	0	ID=CP109700.1_359;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	84199	84843	0	-	0	ID=CP109700.1_556;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	84843	85319	103.0	-	0	ID=CP109700.1_161;annotation=sp-Q59408-DYR13_ECOLX Dihydrofolate reductase type A13 OS-Escherichia coli OX-562 GN-dfrA13 PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	85316	85729	0	-	0	ID=CP109700.1_-1105;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	85731	86834	147.0	-	0	ID=CP109700.1_60;annotation=sp-Q6KIQ6-TYSY_MYCMO Thymidylate synthase OS-Mycoplasma mobile strain ATCC 43663 / 163K / NCTC 11711 OX-267748 GN-thyA PE-3 SV-1 sp-Q9A6H0-TYSY_CAUVC Thymidylate synthase OS-Caulobacter vibrioides strain ATCC 19089 / CB15 OX-190650 GN-thyA PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	87028	87903	0	-	0	ID=CP109700.1_524;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	87738	87903	0	-	0	ID=CP109700.1_-1086;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	87980	89122	447.0	-	0	ID=CP109700.1_531;annotation=sp-P57275-RIR2_BUCAI Ribonucleoside-diphosphate reductase subunit beta OS-Buchnera aphidicola subsp. Acyrthosiphon pisum strain APS OX-107806 GN-nrdB PE-3 SV-1 sp-P43755-RIR2_HAEIN Ribonucleoside-diphosphate reductase subunit beta OS-Haemophilus influenzae strain ATCC 51907 / DSM 11121 / KW20 / Rd OX-71421 GN-nrdB PE-3 SV-2 sp-P69924-RIR2_ECOLI Ribonucleoside-diphosphate reductase 1 subunit beta OS-Escherichia coli strain K12 OX-83333 GN-nrdB PE-1 SV-2;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	89253	91439	879.0	-	0	ID=CP109700.1_810;annotation=sp-P43754-RIR1_HAEIN Ribonucleoside-diphosphate reductase subunit alpha OS-Haemophilus influenzae strain ATCC 51907 / DSM 11121 / KW20 / Rd OX-71421 GN-nrdA PE-3 SV-1 sp-Q89AS4-RIR1_BUCBP Ribonucleoside-diphosphate reductase subunit alpha OS-Buchnera aphidicola subsp. Baizongia pistaciae strain Bp OX-224915 GN-nrdA PE-3 SV-1 sp-P00452-RIR1_ECOLI Ribonucleoside-diphosphate reductase 1 subunit alpha OS-Escherichia coli strain K12 OX-83333 GN-nrdA PE-1 SV-2 sp-Q8K9W3-RIR1_BUCAP Ribonucleoside-diphosphate reductase subunit alpha OS-Buchnera aphidicola subsp. Schizaphis graminum strain Sg OX-198804 GN-nrdA PE-3 SV-1 sp-P37426-RIR1_SALTY Ribonucleoside-diphosphate reductase 1 subunit alpha OS-Salmonella typhimurium strain LT2 / SGSC1412 / ATCC 700720 OX-99287 GN-nrdA PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	91631	92200	0	-	0	ID=CP109700.1_510;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	92210	92956	0	-	0	ID=CP109700.1_969;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	92946	94862	0	-	0	ID=CP109700.1_868;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	93271	94324	0	-	0	ID=CP109700.1_-1100;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	94712	94862	0	-	0	ID=CP109700.1_-1088;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	94940	95719	215.0	-	0	ID=CP109700.1_19;annotation=sp-P15026-ISTB_PSEAI Insertion sequence IS21 putative ATP-binding protein OS-Pseudomonas aeruginosa OX-287 GN-istB PE-3 SV-2;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	95719	96741	197.0	-	0	ID=CP109700.1_789;annotation=sp-Q45618-TRA6_GEOSE Putative transposase for insertion sequence element IS5376 OS-Geobacillus stearothermophilus OX-1422 PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	96755	97012	47.8	-	0	ID=CP109700.1_52;annotation=sp-A9R2J1-XNI_YERPG Flap endonuclease Xni OS-Yersinia pestis bv. Antiqua strain Angola OX-349746 GN-xni PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	97051	98136	0	-	0	ID=CP109700.1_535;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	97408	97695	0	+	0	ID=CP109700.1_-1073;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	98337	99368	677.0	-	0	ID=CP109700.1_274;annotation=sp-P16943-YIS5_SHISO Insertion element IS630 uncharacterized 39 kDa protein OS-Shigella sonnei OX-624 PE-4 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	99790	99945	0	-	0	ID=CP109700.1_354;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	99944	100972	0	+	0	ID=CP109700.1_334;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	101073	102053	647.0	-	0	ID=CP109700.1_906;annotation=sp-P76071-INSH5_ECOLI Transposase InsH for insertion sequence element IS5Y OS-Escherichia coli strain K12 OX-83333 GN-insH5 PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	102107	102703	0	+	0	ID=CP109700.1_917;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	102806	102970	0	-	0	ID=CP109700.1_-1087;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	102834	102941	0	-	0	ID=CP109700.1_669;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	103205	103660	0	-	0	ID=CP109700.1_306;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	103703	103897	0	-	0	ID=CP109700.1_-1096;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	103861	105078	284.0	+	0	ID=CP109700.1_640;annotation=sp-Q934T6-REPA_SALTI Replication protein RepA OS-Salmonella typhi OX-90370 GN-repA PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	104275	104843	144.0	+	0	ID=CP109700.1_-1066;annotation=sp-Q934T6-REPA_SALTI Replication protein RepA OS-Salmonella typhi OX-90370 GN-repA PE-3 SV-1 potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	104449	104761	99.8	+	0	ID=CP109700.1_-1097;annotation=sp-Q934T6-REPA_SALTI Replication protein RepA OS-Salmonella typhi OX-90370 GN-repA PE-3 SV-1 potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	104806	104972	49.7	+	0	ID=CP109700.1_-1085;annotation=sp-Q934T6-REPA_SALTI Replication protein RepA OS-Salmonella typhi OX-90370 GN-repA PE-3 SV-1 potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	105235	105363	0	+	0	ID=CP109700.1_676;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	105530	105742	0	-	0	ID=CP109700.1_545;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	105742	106356	0	-	0	ID=CP109700.1_511;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	106074	106253	0	-	0	ID=CP109700.1_-1094;annotation=hypothetical protein;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	106440	106616	0	-	0	ID=CP109700.1_221;annotation=hypothetical protein;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	106787	107911	156.0	-	0	ID=CP109700.1_105;annotation=sp-B5ED05-RECA_GEOBB Protein RecA OS-Geobacter bemidjiensis strain Bem / ATCC BAA-1014 / DSM 16622 OX-404380 GN-recA PE-3 SV-1 sp-P62221-RECA_TREDE Protein RecA OS-Treponema denticola strain ATCC 35405 / DSM 14222 / CIP 103919 / JCM 8153 / KCTC 15104 OX-243275 GN-recA PE-3 SV-1 sp-P29226-RECA_MYCPU Protein RecA OS-Mycoplasma pulmonis strain UAB CTIP OX-272635 GN-recA PE-3 SV-2  sp-P61501-RECA_THETH Protein RecA OS-Thermus thermophilus OX-274 GN-recA PE-3 SV-2 sp-P62215-RECA_GEOSL Protein RecA OS-Geobacter sulfurreducens strain ATCC 51573 / DSM 12127 / PCA OX-243231 GN-recA PE-3 SV-1 potential psuedogene;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	107865	108131	0	-	0	ID=CP109700.1_781;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	108079	108430	0	-	0	ID=CP109700.1_-1095;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	108131	108730	54.3	-	0	ID=CP109700.1_-1065;annotation=sp-Q98PK2-EX53_MYCPU 5-3 exonuclease OS-Mycoplasma pulmonis strain UAB CTIP OX-272635 GN-polA PE-3 SV-1;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	108131	109126	70.1	-	0	ID=CP109700.1_529;annotation=sp-Q98PK2-EX53_MYCPU 5-3 exonuclease OS-Mycoplasma pulmonis strain UAB CTIP OX-272635 GN-polA PE-3 SV-1;inference=annotation
+CP109700.1	ggCaller:1.3.4	CDS	109521	110141	0	-	0	ID=CP109700.1_923;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP109700.1	ggCaller:1.3.4	CDS	109874	110141	0	-	0	ID=CP109700.1_-1075;annotation=hypothetical protein potential psuedogene;inference=refound
+CP109700.1	ggCaller:1.3.4	CDS	110261	110599	0	-	0	ID=CP109700.1_877;annotation=hypothetical protein potential psuedogene;inference=prediction
