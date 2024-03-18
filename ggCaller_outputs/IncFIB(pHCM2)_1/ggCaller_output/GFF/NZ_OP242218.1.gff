@@ -1,0 +1,132 @@
+##gff-version 3
+##sequence-region NZ_OP242218.1 1 111836
+NZ_OP242218.1	ggCaller:1.3.4	CDS	1707	1922	0	-	0	ID=NZ_OP242218.1_963;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	1919	2254	0	-	0	ID=NZ_OP242218.1_660;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	2251	2430	0	-	0	ID=NZ_OP242218.1_354;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	2470	2745	0	-	0	ID=NZ_OP242218.1_840;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	2925	3611	220.0	-	0	ID=NZ_OP242218.1_832;annotation=sp-P16940-YIS2_SHISO Insertion element IS600 uncharacterized 31 kDa protein OS-Shigella sonnei OX-624 PE-4 SV-1 sp-Q47718-INSO2_ECOLI Putative transposase InsO for insertion sequence element IS911B OS-Escherichia coli strain K12 OX-83333 GN-insO2 PE-5 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	3626	6661	0	-	0	ID=NZ_OP242218.1_480;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	6651	8600	0	-	0	ID=NZ_OP242218.1_204;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	8597	10030	0	-	0	ID=NZ_OP242218.1_937;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	9991	10554	0	-	0	ID=NZ_OP242218.1_219;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	10564	11847	0	-	0	ID=NZ_OP242218.1_352;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	11847	14276	102.0	-	0	ID=NZ_OP242218.1_179;annotation=sp-P75436-T1MD_MYCPN Putative type I restriction enzyme MpnORFDP M protein OS-Mycoplasma pneumoniae strain ATCC 29342 / M129 OX-272634 GN-MPN_342 PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	14509	14700	0	-	0	ID=NZ_OP242218.1_849;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	14704	14904	0	-	0	ID=NZ_OP242218.1_291;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	14995	17334	152.0	-	0	ID=NZ_OP242218.1_202;annotation=sp-P22841-RECA_BACFR Protein RecA OS-Bacteroides fragilis strain YCH46 OX-295405 GN-recA PE-3 SV-1 sp-P62221-RECA_TREDE Protein RecA OS-Treponema denticola strain ATCC 35405 / DSM 14222 / CIP 103919 / JCM 8153 / KCTC 15104 OX-243275 GN-recA PE-3 SV-1 sp-Q45791-RECA_BACTN Protein RecA OS-Bacteroides thetaiotaomicron strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482 OX-226186 GN-recA PE-3 SV-3  sp-P62215-RECA_GEOSL Protein RecA OS-Geobacter sulfurreducens strain ATCC 51573 / DSM 12127 / PCA OX-243231 GN-recA PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	17337	17603	0	-	0	ID=NZ_OP242218.1_107;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	17603	18547	70.9	-	0	ID=NZ_OP242218.1_133;annotation=sp-Q98PK2-EX53_MYCPU 5-3 exonuclease OS-Mycoplasma pulmonis strain UAB CTIP OX-272635 GN-polA PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	18608	19624	0	-	0	ID=NZ_OP242218.1_393;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	19744	20175	0	-	0	ID=NZ_OP242218.1_834;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	20285	20845	0	+	0	ID=NZ_OP242218.1_2;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	20874	21206	217.0	-	0	ID=NZ_OP242218.1_-1311;annotation=sp-O68770-DPO3A_YERPE DNA polymerase III subunit alpha OS-Yersinia pestis OX-632 GN-dnaE PE-3 SV-2;inference=refound
+NZ_OP242218.1	ggCaller:1.3.4	CDS	20874	24392	2320.0	-	0	ID=NZ_OP242218.1_947;annotation=sp-O68770-DPO3A_YERPE DNA polymerase III subunit alpha OS-Yersinia pestis OX-632 GN-dnaE PE-3 SV-2;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	24573	25808	0	-	0	ID=NZ_OP242218.1_510;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	25904	28204	90.1	-	0	ID=NZ_OP242218.1_323;annotation=sp-P29934-COBT_SINSX Aerobic cobaltochelatase subunit CobT OS-Sinorhizobium sp. OX-42445 GN-cobT PE-1 SV-1  sp-A9R2J1-XNI_YERPG Flap endonuclease Xni OS-Yersinia pestis bv. Antiqua strain Angola OX-349746 GN-xni PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	28248	28460	0	-	0	ID=NZ_OP242218.1_197;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	28708	29106	0	+	0	ID=NZ_OP242218.1_201;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	29101	30204	0	-	0	ID=NZ_OP242218.1_97;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	30504	30920	0	-	0	ID=NZ_OP242218.1_470;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	30911	31459	0	-	0	ID=NZ_OP242218.1_296;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	32235	32399	0	+	0	ID=NZ_OP242218.1_413;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	32532	32837	0	-	0	ID=NZ_OP242218.1_154;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	32834	32986	0	-	0	ID=NZ_OP242218.1_116;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	32986	33198	0	-	0	ID=NZ_OP242218.1_797;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	33182	33361	0	-	0	ID=NZ_OP242218.1_723;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	33358	34680	48.1	-	0	ID=NZ_OP242218.1_335;annotation=sp-A9R2J1-XNI_YERPG Flap endonuclease Xni OS-Yersinia pestis bv. Antiqua strain Angola OX-349746 GN-xni PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	34715	35191	0	-	0	ID=NZ_OP242218.1_141;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	35273	36085	47.4	-	0	ID=NZ_OP242218.1_789;annotation=sp-Q1CAP8-XNI_YERPA Flap endonuclease Xni OS-Yersinia pestis bv. Antiqua strain Antiqua OX-360102 GN-xni PE-3 SV-1 sp-A9R2J1-XNI_YERPG Flap endonuclease Xni OS-Yersinia pestis bv. Antiqua strain Angola OX-349746 GN-xni PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	36254	36556	159.0	-	0	ID=NZ_OP242218.1_860;annotation=sp-Q79E92-YKGN_ECOLI Putative transposase YkgN OS-Escherichia coli strain K12 OX-83333 GN-ykgN PE-5 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	36917	37732	495.0	+	0	ID=NZ_OP242218.1_422;annotation=sp-P51026-YI2A_ECOLX Insertion element IS2A uncharacterized 48.2 kDa protein OS-Escherichia coli OX-562 PE-3 SV-2;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	37874	38422	81.6	+	0	ID=NZ_OP242218.1_875;annotation=sp-P33343-YEHD_ECOLI Uncharacterized fimbrial-like protein YehD OS-Escherichia coli strain K12 OX-83333 GN-yehD PE-2 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	38478	39158	266.0	+	0	ID=NZ_OP242218.1_548;annotation=sp-P33342-YEHC_ECOLI Probable fimbrial chaperone YehC OS-Escherichia coli strain K12 OX-83333 GN-yehC PE-2 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	39176	41662	1134.0	+	0	ID=NZ_OP242218.1_497;annotation=sp-P33341-YEHB_ECOLI Outer membrane usher protein YehB OS-Escherichia coli strain K12 OX-83333 GN-yehB PE-2 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	41673	42683	0	+	0	ID=NZ_OP242218.1_106;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	42868	43089	0	+	0	ID=NZ_OP242218.1_762;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	43089	43466	0	+	0	ID=NZ_OP242218.1_871;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	43600	44715	0	-	0	ID=NZ_OP242218.1_397;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	44872	46212	0	-	0	ID=NZ_OP242218.1_193;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	46273	46998	0	-	0	ID=NZ_OP242218.1_376;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	47372	48049	0	+	0	ID=NZ_OP242218.1_33;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	48088	48447	0	-	0	ID=NZ_OP242218.1_587;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	48447	49112	0	-	0	ID=NZ_OP242218.1_247;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	49432	49701	0	+	0	ID=NZ_OP242218.1_775;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	49709	50230	0	+	0	ID=NZ_OP242218.1_341;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	50399	50650	0	-	0	ID=NZ_OP242218.1_351;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	50653	51345	0	-	0	ID=NZ_OP242218.1_975;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	51359	51694	0	-	0	ID=NZ_OP242218.1_837;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	51816	52397	352.0	-	0	ID=NZ_OP242218.1_609;annotation=sp-P76155-TFAQ_ECOLI Prophage tail fiber assembly protein homolog TfaQ OS-Escherichia coli strain K12 OX-83333 GN-tfaQ PE-3 SV-2;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	52397	55462	535.0	-	0	ID=NZ_OP242218.1_198;annotation=sp-P77515-STFQ_ECOLI Prophage side tail fiber protein homolog StfQ OS-Escherichia coli strain K12 OX-83333 GN-stfQ PE-3 SV-1 sp-P76072-STFR_ECOLI Prophage side tail fiber protein homolog StfR OS-Escherichia coli strain K12 OX-83333 GN-stfR PE-3 SV-2;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	55598	60172	0	-	0	ID=NZ_OP242218.1_73;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	60189	60782	0	-	0	ID=NZ_OP242218.1_41;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	60770	61567	0	-	0	ID=NZ_OP242218.1_503;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	61560	62258	0	-	0	ID=NZ_OP242218.1_618;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	62341	62676	0	-	0	ID=NZ_OP242218.1_147;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	62719	67278	82.4	-	0	ID=NZ_OP242218.1_953;annotation=sp-P44236-VG42_HAEIN Mu-like prophage FluMu protein gp42 OS-Haemophilus influenzae strain ATCC 51907 / DSM 11121 / KW20 / Rd OX-71421 GN-HI_1514 PE-4 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	67286	67510	0	-	0	ID=NZ_OP242218.1_787;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	67636	67953	0	-	0	ID=NZ_OP242218.1_729;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	68013	68759	0	-	0	ID=NZ_OP242218.1_158;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	68834	69217	0	-	0	ID=NZ_OP242218.1_496;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	69219	69599	0	-	0	ID=NZ_OP242218.1_451;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	69683	70141	0	-	0	ID=NZ_OP242218.1_747;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	70125	70958	0	-	0	ID=NZ_OP242218.1_831;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	70958	71392	0	-	0	ID=NZ_OP242218.1_805;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	71436	71864	81.3	-	0	ID=NZ_OP242218.1_456;annotation=sp-Q086E4-IBP1_SHEFN Ice-binding protein 1 OS-Shewanella frigidimarina strain NCIMB 400 OX-318167 GN-Sfri_1018 PE-1 SV-1 potential psuedogene;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	71939	72814	0	-	0	ID=NZ_OP242218.1_977;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	72841	73737	0	-	0	ID=NZ_OP242218.1_126;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	73760	75334	0	-	0	ID=NZ_OP242218.1_760;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	75367	76623	0	-	0	ID=NZ_OP242218.1_748;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	76626	77267	0	-	0	ID=NZ_OP242218.1_674;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	77463	77729	0	-	0	ID=NZ_OP242218.1_371;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	77739	78629	0	-	0	ID=NZ_OP242218.1_662;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	78635	78889	0	-	0	ID=NZ_OP242218.1_94;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	78882	79520	50.8	-	0	ID=NZ_OP242218.1_983;annotation=sp-Q82WC8-CCMA_NITEU Cytochrome c biogenesis ATP-binding export protein CcmA OS-Nitrosomonas europaea strain ATCC 19718 / CIP 103999 / KCTC 2705 / NBRC 14298 OX-228410 GN-ccmA PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	79517	80218	51.6	-	0	ID=NZ_OP242218.1_429;annotation=sp-O83295-PARB_TREPA Probable chromosome-partitioning protein ParB OS-Treponema pallidum strain Nichols OX-243276 GN-parB PE-3 SV-1 sp-Q72H91-SP0J_THET2 Chromosome-partitioning protein Spo0J OS-Thermus thermophilus strain ATCC BAA-163 / DSM 7039 / HB27 OX-262724 GN-spo0C PE-1 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	80185	80865	63.2	-	0	ID=NZ_OP242218.1_821;annotation=sp-O83295-PARB_TREPA Probable chromosome-partitioning protein ParB OS-Treponema pallidum strain Nichols OX-243276 GN-parB PE-3 SV-1 sp-C5D9Y4-NOC_GEOSW Nucleoid occlusion protein OS-Geobacillus sp. strain WCH70 OX-471223 GN-noc PE-3 SV-1 sp-Q9PB63-PARB_XYLFA Probable chromosome-partitioning protein ParB OS-Xylella fastidiosa strain 9a5c OX-160492 GN-parB PE-3 SV-1 potential psuedogene;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	80948	82507	47.8	+	0	ID=NZ_OP242218.1_88;annotation=sp-P9WMQ7-RECG_MYCTU ATP-dependent DNA helicase RecG OS-Mycobacterium tuberculosis strain ATCC 25618 / H37Rv OX-83332 GN-recG PE-3 SV-1  sp-Q8XD86-RECG_ECO57 ATP-dependent DNA helicase RecG OS-Escherichia coli O157:H7 OX-83334 GN-recG PE-3 SV-1 sp-Q9CMB4-RECG_PASMU ATP-dependent DNA helicase RecG OS-Pasteurella multocida strain Pm70 OX-272843 GN-recG PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	82510	82788	0	+	0	ID=NZ_OP242218.1_292;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	82812	83270	0	+	0	ID=NZ_OP242218.1_550;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	83233	83802	113.0	+	0	ID=NZ_OP242218.1_375;annotation=sp-P52618-FLJA_SALAB Repressor of phase 1 flagellin gene OS-Salmonella abony OX-29482 GN-fljA PE-4 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	84125	84775	0	+	0	ID=NZ_OP242218.1_321;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	84826	85056	0	+	0	ID=NZ_OP242218.1_565;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	85681	86163	0	-	0	ID=NZ_OP242218.1_621;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	86368	86781	0	-	0	ID=NZ_OP242218.1_458;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	86985	87395	0	-	0	ID=NZ_OP242218.1_909;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	87592	88095	345.0	-	0	ID=NZ_OP242218.1_664;annotation=sp-P59843-INSB_HAEDU Insertion element IS1 protein InsB OS-Haemophilus ducreyi strain 35000HP / ATCC 700724 OX-233412 GN-insB PE-3 SV-1 sp-P0CF27-INSB3_ECOLI Insertion element IS1 3 protein InsB OS-Escherichia coli strain K12 OX-83333 GN-insB3 PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	88323	88649	0	-	0	ID=NZ_OP242218.1_539;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	88771	89082	0	-	0	ID=NZ_OP242218.1_246;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	89221	89439	0	-	0	ID=NZ_OP242218.1_208;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	89741	89941	0	-	0	ID=NZ_OP242218.1_227;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	89956	90114	0	+	0	ID=NZ_OP242218.1_827;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	91000	91185	0	-	0	ID=NZ_OP242218.1_403;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	91222	91521	0	-	0	ID=NZ_OP242218.1_974;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	91744	92115	0	+	0	ID=NZ_OP242218.1_163;annotation=hypothetical protein potential psuedogene;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	92160	92300	608.0	-	0	ID=NZ_OP242218.1_85;annotation=sp-P03009-TRA2_ECOLX Probable transposase for transposon Tn903 OS-Escherichia coli OX-562 PE-4 SV-1 potential psuedogene;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	92430	92729	177.0	+	0	ID=NZ_OP242218.1_597;annotation=sp-P0CF71-INSE6_ECOLI Transposase InsE for insertion sequence IS3fA OS-Escherichia coli strain K12 OX-83333 GN-insE6 PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	92777	93592	570.0	+	0	ID=NZ_OP242218.1_547;annotation=sp-P0CF81-INSF3_ECOLI Transposase InsF for insertion sequence IS3C OS-Escherichia coli strain K12 OX-83333 GN-insF3 PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	93825	94268	0	+	0	ID=NZ_OP242218.1_682;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	94363	94923	0	-	0	ID=NZ_OP242218.1_630;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	95032	95847	0	-	0	ID=NZ_OP242218.1_646;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	95954	96142	0	-	0	ID=NZ_OP242218.1_232;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	96152	96652	0	-	0	ID=NZ_OP242218.1_353;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	96618	96749	0	-	0	ID=NZ_OP242218.1_-1314;annotation=hypothetical protein;inference=refound
+NZ_OP242218.1	ggCaller:1.3.4	CDS	96795	97403	196.0	-	0	ID=NZ_OP242218.1_12;annotation=sp-Q6G4C3-RNH_BARHE Ribonuclease H OS-Bartonella henselae strain ATCC 49882 / DSM 28221 / Houston 1 OX-283166 GN-rnhA PE-3 SV-1 sp-Q2NVF9-RNH_SODGM Ribonuclease H OS-Sodalis glossinidius strain morsitans OX-343509 GN-rnhA PE-3 SV-1 sp-Q6D1V7-RNH_PECAS Ribonuclease H OS-Pectobacterium atrosepticum strain SCRI 1043 / ATCC BAA-672 OX-218491 GN-rnhA PE-3 SV-1 potential psuedogene;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	97760	97961	0	-	0	ID=NZ_OP242218.1_-1315;annotation=hypothetical protein potential psuedogene;inference=refound
+NZ_OP242218.1	ggCaller:1.3.4	CDS	97997	98227	0	-	0	ID=NZ_OP242218.1_186;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	98430	99023	0	-	0	ID=NZ_OP242218.1_62;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	99179	100135	0	-	0	ID=NZ_OP242218.1_13;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	100180	100734	0	-	0	ID=NZ_OP242218.1_581;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	100744	101163	0	-	0	ID=NZ_OP242218.1_671;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	101227	101871	42.4	-	0	ID=NZ_OP242218.1_819;annotation=sp-Q8DKG1-COAE_THEEB Dephospho-CoA kinase OS-Thermosynechococcus elongatus strain BP-1 OX-197221 GN-coaE PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	101871	102347	95.5	-	0	ID=NZ_OP242218.1_708;annotation=sp-Q59408-DYR13_ECOLX Dihydrofolate reductase type A13 OS-Escherichia coli OX-562 GN-dfrA13 PE-3 SV-1 sp-P11045-DYR_BACSU Dihydrofolate reductase OS-Bacillus subtilis strain 168 OX-224308 GN-dfrA PE-1 SV-2;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	102344	102757	0	-	0	ID=NZ_OP242218.1_506;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	102759	103874	148.0	-	0	ID=NZ_OP242218.1_112;annotation=sp-Q9A6H0-TYSY_CAUVC Thymidylate synthase OS-Caulobacter vibrioides strain ATCC 19089 / CB15 OX-190650 GN-thyA PE-3 SV-1 sp-Q6YQT0-TYSY_ONYPE Thymidylate synthase OS-Onion yellows phytoplasma strain OY-M OX-262768 GN-thyA PE-3 SV-1;inference=annotation
+NZ_OP242218.1	ggCaller:1.3.4	CDS	104042	104920	0	-	0	ID=NZ_OP242218.1_169;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	105186	105755	0	-	0	ID=NZ_OP242218.1_601;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	106086	106832	0	-	0	ID=NZ_OP242218.1_786;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	106822	108984	0	-	0	ID=NZ_OP242218.1_331;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	108968	110053	0	-	0	ID=NZ_OP242218.1_326;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	110050	110202	0	-	0	ID=NZ_OP242218.1_-1312;annotation=hypothetical protein potential psuedogene;inference=refound
+NZ_OP242218.1	ggCaller:1.3.4	CDS	110072	110202	0	-	0	ID=NZ_OP242218.1_-1313;annotation=hypothetical protein potential psuedogene;inference=refound
+NZ_OP242218.1	ggCaller:1.3.4	CDS	110450	111094	0	-	0	ID=NZ_OP242218.1_212;annotation=hypothetical protein;inference=prediction
+NZ_OP242218.1	ggCaller:1.3.4	CDS	111269	111610	0	-	0	ID=NZ_OP242218.1_835;annotation=hypothetical protein;inference=prediction

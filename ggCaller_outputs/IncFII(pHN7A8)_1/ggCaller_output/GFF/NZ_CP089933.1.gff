@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region NZ_CP089933.1 1 37808
+NZ_CP089933.1	ggCaller:1.3.4	CDS	1091	1255	0	-	0	ID=NZ_CP089933.1_250;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	1570	1764	0	-	0	ID=NZ_CP089933.1_165;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	2028	2678	65.5	+	0	ID=NZ_CP089933.1_200;annotation=sp-Q72H90-SOJ_THET2 Chromosome-partitioning ATPase Soj OS-Thermus thermophilus strain ATCC BAA-163 / DSM 7039 / HB27 OX-262724 GN-soj PE-1 SV-1;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	2718	2999	0	+	0	ID=NZ_CP089933.1_114;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	3130	3363	0	-	0	ID=NZ_CP089933.1_241;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	3416	4630	364.0	-	0	ID=NZ_CP089933.1_105;annotation=sp-P24607-T801_PSESH Transposase for insertion sequence element IS801 OS-Pseudomonas savastanoi pv. phaseolicola OX-319 PE-3 SV-1;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	3859	4630	226.0	-	0	ID=NZ_CP089933.1_-1175;annotation=sp-P24607-T801_PSESH Transposase for insertion sequence element IS801 OS-Pseudomonas savastanoi pv. phaseolicola OX-319 PE-3 SV-1 potential psuedogene;inference=refound
+NZ_CP089933.1	ggCaller:1.3.4	CDS	5343	8054	0	+	0	ID=NZ_CP089933.1_194;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	8461	8673	0	+	0	ID=NZ_CP089933.1_25;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	8784	9044	0	+	0	ID=NZ_CP089933.1_89;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	9331	9567	0	+	0	ID=NZ_CP089933.1_284;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	9726	10766	203.0	+	0	ID=NZ_CP089933.1_175;annotation=sp-Q324Z5-YLBG_SHIBS Uncharacterized protein YlbG OS-Shigella boydii serotype 4 strain Sb227 OX-300268 GN-ylbG PE-4 SV-2;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	11229	14537	0	-	0	ID=NZ_CP089933.1_34;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	14647	15225	318.0	-	0	ID=NZ_CP089933.1_28;annotation=sp-P21424-TNR4_KLEPN Transposon Tn1331 resolvase OS-Klebsiella pneumoniae OX-573 GN-tnpR PE-3 SV-2;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	15230	18394	1896.0	+	0	ID=NZ_CP089933.1_207;annotation=sp-P03008-TNP3_ECOLX Transposase for transposon Tn3 OS-Escherichia coli OX-562 GN-tnpA PE-3 SV-1;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	18456	19103	113.0	-	0	ID=NZ_CP089933.1_255;annotation=sp-P22996-PARA4_ECOLX Resolvase OS-Escherichia coli OX-562 GN-parA PE-3 SV-1;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	25236	25442	0	+	0	ID=NZ_CP089933.1_149;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	25891	26352	0	+	0	ID=NZ_CP089933.1_32;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	26503	27711	375.0	-	0	ID=NZ_CP089933.1_248;annotation=sp-P55620-Y4PO_SINFN Probable transposase for insertion sequence element ISRM3-like OS-Sinorhizobium fredii strain NBRC 101917 / NGR234 OX-394 GN-NGR_a01970 PE-3 SV-1;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	27578	27711	0	-	0	ID=NZ_CP089933.1_-1176;annotation=hypothetical protein potential psuedogene;inference=refound
+NZ_CP089933.1	ggCaller:1.3.4	CDS	27904	28371	0	+	0	ID=NZ_CP089933.1_199;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	28393	30540	650.0	+	0	ID=NZ_CP089933.1_24;annotation=sp-P22708-TRAD2_ECOLX Coupling protein TraD OS-Escherichia coli OX-562 GN-traD PE-3 SV-1;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	30648	33785	801.0	+	0	ID=NZ_CP089933.1_11;annotation=sp-P14565-TRAI1_ECOLI Multifunctional conjugation protein TraI OS-Escherichia coli strain K12 OX-83333 GN-traI PE-1 SV-2;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	32469	33785	366.0	+	0	ID=NZ_CP089933.1_-1174;annotation=sp-P14565-TRAI1_ECOLI Multifunctional conjugation protein TraI OS-Escherichia coli strain K12 OX-83333 GN-traI PE-1 SV-2;inference=refound
+NZ_CP089933.1	ggCaller:1.3.4	CDS	33906	35765	380.0	+	0	ID=NZ_CP089933.1_254;annotation=sp-P22706-TRAI2_ECOLX Multifunctional conjugation protein TraI OS-Escherichia coli OX-562 GN-traI PE-3 SV-1;inference=annotation
+NZ_CP089933.1	ggCaller:1.3.4	CDS	35775	36380	0	-	0	ID=NZ_CP089933.1_155;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	36547	37110	0	+	0	ID=NZ_CP089933.1_267;annotation=hypothetical protein;inference=prediction
+NZ_CP089933.1	ggCaller:1.3.4	CDS	37257	37502	67.0	+	0	ID=NZ_CP089933.1_40;annotation=sp-P13959-COPB1_ECOLI Replication regulatory protein RepA2 OS-Escherichia coli strain K12 OX-83333 GN-repA2 PE-4 SV-1;inference=annotation

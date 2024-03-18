@@ -1,0 +1,70 @@
+##gff-version 3
+##sequence-region NZ_CP131958.1 1 49884
+NZ_CP131958.1	ggCaller:1.3.4	CDS	474	1253	298.0	+	0	ID=NZ_CP131958.1_102;annotation=sp-O82899-YUBG_ECO57 Uncharacterized protein YubG OS-Escherichia coli O157:H7 OX-83334 GN-L7076 PE-4 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	1658	2164	0	+	0	ID=NZ_CP131958.1_387;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	2168	2398	0	+	0	ID=NZ_CP131958.1_350;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	3823	4053	133.0	+	0	ID=NZ_CP131958.1_223;annotation=sp-Q1CC63-YUBL_YERPN UPF0401 protein YubL OS-Yersinia pestis bv. Antiqua strain Nepal516 OX-377628 GN-yubL PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	4124	4786	218.0	+	0	ID=NZ_CP131958.1_464;annotation=sp-Q9ZGR8-YUBM_ECO57 Uncharacterized protein YubM OS-Escherichia coli O157:H7 OX-83334 GN-yubM PE-3 SV-2;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	4835	6133	390.0	+	0	ID=NZ_CP131958.1_285;annotation=sp-Q9ZGR8-YUBM_ECO57 Uncharacterized protein YubM OS-Escherichia coli O157:H7 OX-83334 GN-yubM PE-3 SV-2;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	6176	6607	178.0	+	0	ID=NZ_CP131958.1_445;annotation=sp-P10032-PSIB2_ECOLX Protein PsiB OS-Escherichia coli OX-562 GN-psiB PE-4 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	6839	7069	0	-	0	ID=NZ_CP131958.1_-1910;annotation=hypothetical protein;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	7329	7652	0	+	0	ID=NZ_CP131958.1_131;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	7714	8073	0	+	0	ID=NZ_CP131958.1_72;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	8666	9073	0	+	0	ID=NZ_CP131958.1_355;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	9176	9903	89.0	+	0	ID=NZ_CP131958.1_-1915;annotation=sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2 potential psuedogene;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	9199	9903	87.8	+	0	ID=NZ_CP131958.1_-1914;annotation=sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	9199	9903	126.0	+	0	ID=NZ_CP131958.1_168;annotation=sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2 sp-P0A045-T431_STAAW Transposase for insertion sequence-like element IS431mec OS-Staphylococcus aureus strain MW2 OX-196620 GN-tnp PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	9199	9903	87.8	+	0	ID=NZ_CP131958.1_-1916;annotation=sp-P0ACT4-TETR4_ECOLX Tetracycline repressor protein class D OS-Escherichia coli OX-562 GN-tetR PE-1 SV-2 sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	9427	9577	50.4	+	0	ID=NZ_CP131958.1_-1912;annotation=sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2 potential psuedogene;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	9937	10323	246.0	-	0	ID=NZ_CP131958.1_418;annotation=sp-P10514-TRAE2_ECOLX Protein TraE OS-Escherichia coli OX-562 GN-traE PE-3 SV-1 potential psuedogene;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	10343	10720	154.0	-	0	ID=NZ_CP131958.1_144;annotation=sp-P08321-TRAL1_ECOLI Protein TraL OS-Escherichia coli strain K12 OX-83333 GN-traL PE-4 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	10662	11030	121.0	-	0	ID=NZ_CP131958.1_399;annotation=sp-P04737-PIL1_ECOLI Pilin OS-Escherichia coli strain K12 OX-83333 GN-traA PE-1 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	11092	11310	51.6	-	0	ID=NZ_CP131958.1_276;annotation=sp-P06627-TRAY1_ECOLI Relaxosome protein TraY OS-Escherichia coli strain K12 OX-83333 GN-traY PE-1 SV-2;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	11413	12150	0	-	0	ID=NZ_CP131958.1_82;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	12350	12766	158.0	-	0	ID=NZ_CP131958.1_7;annotation=sp-P33787-TRAM7_ECOLX Relaxosome protein TraM OS-Escherichia coli OX-562 GN-traM PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	13157	13642	218.0	+	0	ID=NZ_CP131958.1_95;annotation=sp-P14499-X191_ECOLX X polypeptide OS-Escherichia coli OX-562 GN-X PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	13675	13920	0	-	0	ID=NZ_CP131958.1_151;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	14037	14858	409.0	-	0	ID=NZ_CP131958.1_406;annotation=sp-P18005-YUBP_ECOLI UPF0380 protein YubP OS-Escherichia coli strain K12 OX-83333 GN-yubP PE-3 SV-3;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	16017	16466	91.3	+	0	ID=NZ_CP131958.1_408;annotation=sp-P50466-AER_ECOLI Aerotaxis receptor OS-Escherichia coli strain K12 OX-83333 GN-aer PE-1 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	16441	17466	486.0	-	0	ID=NZ_CP131958.1_217;annotation=sp-P76115-YNCD_ECOLI Probable TonB-dependent receptor YncD OS-Escherichia coli strain K12 OX-83333 GN-yncD PE-1 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	17595	18518	608.0	-	0	ID=NZ_CP131958.1_84;annotation=sp-P03009-TRA2_ECOLX Probable transposase for transposon Tn903 OS-Escherichia coli OX-562 PE-4 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	18314	18518	69.3	-	0	ID=NZ_CP131958.1_-1911;annotation=sp-P03009-TRA2_ECOLX Probable transposase for transposon Tn903 OS-Escherichia coli OX-562 PE-4 SV-1 potential psuedogene;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	18598	19473	546.0	-	0	ID=NZ_CP131958.1_373;annotation=sp-P28585-BLC1_ECOLX Beta-lactamase CTX-M-1 OS-Escherichia coli OX-562 GN-bla PE-1 SV-2 sp-O69395-BLT2_ECOLX Beta-lactamase Toho-2 OS-Escherichia coli OX-562 GN-bla PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	20694	21299	1976.0	+	0	ID=NZ_CP131958.1_378;annotation=sp-P03008-TNP3_ECOLX Transposase for transposon Tn3 OS-Escherichia coli OX-562 GN-tnpA PE-3 SV-1 potential psuedogene;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	21999	22463	264.0	-	0	ID=NZ_CP131958.1_69;annotation=sp-P13976-PEMK_ECOLX Endoribonuclease PemK OS-Escherichia coli OX-562 GN-pemK PE-1 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	22333	22590	171.0	-	0	ID=NZ_CP131958.1_-1909;annotation=sp-P13975-PEMI_ECOLX Antitoxin PemI OS-Escherichia coli OX-562 GN-pemI PE-1 SV-1;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	22499	22627	62.8	-	0	ID=NZ_CP131958.1_313;annotation=sp-P13975-PEMI_ECOLX Antitoxin PemI OS-Escherichia coli OX-562 GN-pemI PE-1 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	22651	22936	150.0	-	0	ID=NZ_CP131958.1_-1913;annotation=sp-P13974-YPRA_ECOLX Uncharacterized 24.3 kDa protein OS-Escherichia coli OX-562 PE-4 SV-1 potential psuedogene;inference=refound
+NZ_CP131958.1	ggCaller:1.3.4	CDS	22683	23252	360.0	-	0	ID=NZ_CP131958.1_4;annotation=sp-P13974-YPRA_ECOLX Uncharacterized 24.3 kDa protein OS-Escherichia coli OX-562 PE-4 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	23655	23957	160.0	+	0	ID=NZ_CP131958.1_19;annotation=sp-P03848-YPRR_ECOLX Uncharacterized protein repA4 OS-Escherichia coli OX-562 GN-repA4 PE-4 SV-1 potential psuedogene;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	24275	25132	525.0	-	0	ID=NZ_CP131958.1_175;annotation=sp-P03066-REPA2_ECOLX Replication initiation protein OS-Escherichia coli OX-562 GN-repA PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	25444	25692	94.0	-	0	ID=NZ_CP131958.1_385;annotation=sp-Q7BSX2-COPB_ECO57 Replication regulatory protein repA2 OS-Escherichia coli O157:H7 OX-83334 GN-repA2 PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	25976	26125	135.0	-	0	ID=NZ_CP131958.1_272;annotation=sp-P13970-SRNB_ECOLI Protein SrnB OS-Escherichia coli strain K12 OX-83333 GN-srnB PE-3 SV-1 potential psuedogene;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	26430	26762	0	-	0	ID=NZ_CP131958.1_327;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	26824	27423	0	-	0	ID=NZ_CP131958.1_466;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	27609	27743	0	+	0	ID=NZ_CP131958.1_331;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	27775	28005	0	-	0	ID=NZ_CP131958.1_325;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	28141	28701	350.0	-	0	ID=NZ_CP131958.1_38;annotation=sp-P22707-FINO_ECOLI Fertility inhibition protein OS-Escherichia coli strain K12 OX-83333 GN-finO PE-3 SV-2 sp-O82922-FINO_ECO57 Fertility inhibition protein OS-Escherichia coli O157:H7 OX-83334 GN-finO PE-3 SV-1 sp-P08315-FINO2_ECOLX Fertility inhibition protein OS-Escherichia coli OX-562 GN-finO PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	28756	29607	485.0	-	0	ID=NZ_CP131958.1_383;annotation=sp-P22709-TRAX1_ECOLI Protein TraX OS-Escherichia coli strain K12 OX-83333 GN-traX PE-3 SV-2 sp-P22710-TRAX2_ECOLX Protein TraX OS-Escherichia coli OX-562 GN-traX PE-3 SV-1 potential psuedogene;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	30423	33389	1827.0	+	0	ID=NZ_CP131958.1_335;annotation=sp-P06694-TNP2_ECOLX Transposase for transposon Tn21 OS-Escherichia coli OX-562 GN-tnpA PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	33468	34472	449.0	+	0	ID=NZ_CP131958.1_21;annotation=sp-Q56897-TRA8_YEREN Transposase for insertion sequence element IS1328 OS-Yersinia enterocolitica OX-630 PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	34654	34830	0	-	0	ID=NZ_CP131958.1_340;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	34952	35176	0	-	0	ID=NZ_CP131958.1_20;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	35173	35910	274.0	-	0	ID=NZ_CP131958.1_101;annotation=sp-P22996-PARA4_ECOLX Resolvase OS-Escherichia coli OX-562 GN-parA PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	37482	37670	0	+	0	ID=NZ_CP131958.1_177;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	37715	38278	56.6	-	0	ID=NZ_CP131958.1_24;annotation=sp-P27375-YJAZ_ECOLI Protein YjaZ OS-Escherichia coli strain K12 OX-83333 GN-yjaZ PE-2 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	38400	38942	0	-	0	ID=NZ_CP131958.1_32;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	38924	39904	647.0	-	0	ID=NZ_CP131958.1_263;annotation=sp-P76071-INSH5_ECOLI Transposase InsH for insertion sequence element IS5Y OS-Escherichia coli strain K12 OX-83333 GN-insH5 PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	39958	40365	0	+	0	ID=NZ_CP131958.1_237;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	40346	40813	0	+	0	ID=NZ_CP131958.1_173;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	40810	41421	0	+	0	ID=NZ_CP131958.1_339;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	41418	42368	414.0	-	0	ID=NZ_CP131958.1_209;annotation=sp-P37415-YTL2_SALTY Recombination-promoting nuclease pSLT051 OS-Salmonella typhimurium strain LT2 / SGSC1412 / ATCC 700720 OX-99287 GN-PSLT051 PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	42515	42715	0	-	0	ID=NZ_CP131958.1_449;annotation=hypothetical protein;inference=prediction
+NZ_CP131958.1	ggCaller:1.3.4	CDS	42769	43401	120.0	-	0	ID=NZ_CP131958.1_404;annotation=sp-P22996-PARA4_ECOLX Resolvase OS-Escherichia coli OX-562 GN-parA PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	43764	44969	473.0	+	0	ID=NZ_CP131958.1_356;annotation=sp-P07620-PARA_ECOLX Plasmid partition protein A OS-Escherichia coli OX-562 GN-parA PE-1 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	44966	45937	216.0	+	0	ID=NZ_CP131958.1_11;annotation=sp-P0A248-VIRB_SHISO Virulence regulon transcriptional activator VirB OS-Shigella sonnei OX-624 GN-virB PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	46073	47344	776.0	-	0	ID=NZ_CP131958.1_6;annotation=sp-P23832-SAMB_SALTM Protein SamB OS-Salmonella typhimurium OX-90371 GN-samB PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	47344	47766	259.0	-	0	ID=NZ_CP131958.1_113;annotation=sp-P23831-SAMA_SALTY Protein SamA OS-Salmonella typhimurium strain LT2 / SGSC1412 / ATCC 700720 OX-99287 GN-samA PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	47946	48617	349.0	-	0	ID=NZ_CP131958.1_129;annotation=sp-P76318-YEDK_ECOLI Abasic site processing protein YedK OS-Escherichia coli strain K12 OX-83333 GN-yedK PE-1 SV-2 potential psuedogene;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	48976	49653	425.0	+	0	ID=NZ_CP131958.1_419;annotation=sp-Q9S4X2-YUBD_ECOLI Putative methylase YubD OS-Escherichia coli strain K12 OX-83333 GN-yubD PE-3 SV-1;inference=annotation
+NZ_CP131958.1	ggCaller:1.3.4	CDS	49653	49874	122.0	+	0	ID=NZ_CP131958.1_48;annotation=sp-Q9S4X1-YUBE_ECOLI Uncharacterized protein YubE OS-Escherichia coli strain K12 OX-83333 GN-yubE PE-4 SV-1;inference=annotation

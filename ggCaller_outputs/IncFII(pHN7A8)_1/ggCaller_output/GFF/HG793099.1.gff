@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region HG793099.1 1 78740
+HG793099.1	ggCaller:1.3.4	CDS	601	1467	285.0	+	0	ID=HG793099.1_604;annotation=sp-P03066-REPA2_ECOLX Replication initiation protein OS-Escherichia coli OX-562 GN-repA PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	2515	2877	0	+	0	ID=HG793099.1_647;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	3101	3346	0	+	0	ID=HG793099.1_494;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	4092	4337	56.6	+	0	ID=HG793099.1_162;annotation=sp-P0ABS9-HOLE_ECOL6 DNA polymerase III subunit theta OS-Escherichia coli O6:H1 strain CFT073 / ATCC 700928 / UPEC OX-199310 GN-holE PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	4362	4589	0	-	0	ID=HG793099.1_238;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	4688	4951	0	-	0	ID=HG793099.1_14;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	4974	5876	435.0	-	0	ID=HG793099.1_398;annotation=sp-P37415-YTL2_SALTY Recombination-promoting nuclease pSLT051 OS-Salmonella typhimurium strain LT2 / SGSC1412 / ATCC 700720 OX-99287 GN-PSLT051 PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	5890	6144	0	-	0	ID=HG793099.1_83;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	6219	6473	0	-	0	ID=HG793099.1_668;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	6470	7252	0	-	0	ID=HG793099.1_97;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	7777	8136	0	+	0	ID=HG793099.1_198;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	8189	8938	0	+	0	ID=HG793099.1_574;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	8935	9726	358.0	+	0	ID=HG793099.1_202;annotation=sp-P18021-REDM_ECOLX Resolvase OS-Escherichia coli OX-562 GN-resD PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	9871	10665	86.7	+	0	ID=HG793099.1_525;annotation=sp-Q9K5N0-SOJ_BACHD Sporulation initiation inhibitor protein Soj OS-Bacillus halodurans strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125 OX-272558 GN-soj PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	10727	10903	0	+	0	ID=HG793099.1_351;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	11108	12388	638.0	-	0	ID=HG793099.1_26;annotation=sp-P23832-SAMB_SALTM Protein SamB OS-Salmonella typhimurium OX-90371 GN-samB PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	12391	12840	176.0	-	0	ID=HG793099.1_609;annotation=sp-P23831-SAMA_SALTY Protein SamA OS-Salmonella typhimurium strain LT2 / SGSC1412 / ATCC 700720 OX-99287 GN-samA PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	13023	13277	0	-	0	ID=HG793099.1_470;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	13441	14601	122.0	+	0	ID=HG793099.1_147;annotation=sp-Q9S4X5-YUBA_ECOLI Uncharacterized protein YubA OS-Escherichia coli strain K12 OX-83333 GN-yubA PE-4 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	14638	14874	0	+	0	ID=HG793099.1_241;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	15204	15848	319.0	+	0	ID=HG793099.1_562;annotation=sp-Q9S4X2-YUBD_ECOLI Putative methylase YubD OS-Escherichia coli strain K12 OX-83333 GN-yubD PE-3 SV-1 potential psuedogene;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	15862	16095	0	+	0	ID=HG793099.1_735;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	16441	16992	118.0	+	0	ID=HG793099.1_645;annotation=sp-Q9S4W7-YUBI_ECOLI Putative antirestriction protein YubI OS-Escherichia coli strain K12 OX-83333 GN-yubI PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	17036	17413	0	+	0	ID=HG793099.1_617;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	18153	19964	0	+	0	ID=HG793099.1_395;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	20058	20504	0	+	0	ID=HG793099.1_374;annotation=hypothetical protein;inference=prediction
+HG793099.1	ggCaller:1.3.4	CDS	20501	21250	142.0	+	0	ID=HG793099.1_610;annotation=sp-P17976-PSIA2_ECOLX Protein PsiA OS-Escherichia coli OX-562 GN-psiA PE-4 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	21321	21602	115.0	+	0	ID=HG793099.1_169;annotation=sp-Q7A225-HIGB_PROVU Endoribonuclease HigB OS-Proteus vulgaris OX-585 GN-higB PE-1 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	21602	21919	68.9	+	0	ID=HG793099.1_623;annotation=sp-P67700-YDDM_ECOL6 Uncharacterized HTH-type transcriptional regulator YddM OS-Escherichia coli O6:H1 strain CFT073 / ATCC 700928 / UPEC OX-199310 GN-yddM PE-1 SV-1 sp-P67699-YDDM_ECOLI Uncharacterized HTH-type transcriptional regulator YddM OS-Escherichia coli strain K12 OX-83333 GN-yddM PE-3 SV-1;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	22539	23216	88.6	+	0	ID=HG793099.1_227;annotation=sp-Q5J3W6-YUBL_SALCH UPF0401 protein YubL OS-Salmonella choleraesuis strain SC-B67 OX-321314 GN-yubL PE-3 SV-2;inference=annotation
+HG793099.1	ggCaller:1.3.4	CDS	23446	24018	0	+	0	ID=HG793099.1_417;annotation=hypothetical protein;inference=prediction

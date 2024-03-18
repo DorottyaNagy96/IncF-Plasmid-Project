@@ -1,0 +1,74 @@
+##gff-version 3
+##sequence-region AP024497.1 1 70277
+AP024497.1	ggCaller:1.3.4	CDS	1539	3092	0	+	0	ID=AP024497.1_588;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	3458	3613	0	+	0	ID=AP024497.1_439;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	3873	4703	0	-	0	ID=AP024497.1_155;annotation=hypothetical protein potential psuedogene;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	4814	5023	0	-	0	ID=AP024497.1_556;annotation=hypothetical protein potential psuedogene;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	5271	6266	111.0	+	0	ID=AP024497.1_151;annotation=sp-A1AKP9-XERC_PELPD Tyrosine recombinase XerC OS-Pelobacter propionicus strain DSM 2379 / NBRC 103807 / OttBd1 OX-338966 GN-xerC PE-3 SV-1  sp-Q1D804-XERC_MYXXD Tyrosine recombinase XerC OS-Myxococcus xanthus strain DK1622 OX-246197 GN-xerC PE-3 SV-1 sp-Q71Y59-XERD_LISMF Tyrosine recombinase XerD OS-Listeria monocytogenes serotype 4b strain F2365 OX-265669 GN-xerD PE-3 SV-1 sp-B6IPE2-XERC_RHOCS Tyrosine recombinase XerC OS-Rhodospirillum centenum strain ATCC 51521 / SW OX-414684 GN-xerC PE-3 SV-1 sp-Q7ZAM3-XERD_OCEIH Tyrosine recombinase XerD OS-Oceanobacillus iheyensis strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831 OX-221109 GN-xerD PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	6666	8252	418.0	+	0	ID=AP024497.1_235;annotation=sp-P30845-EPTA_ECOLI Phosphoethanolamine transferase EptA OS-Escherichia coli strain K12 OX-83333 GN-eptA PE-1 SV-2;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	8210	8545	0	-	0	ID=AP024497.1_354;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	8753	9181	226.0	+	0	ID=AP024497.1_564;annotation=sp-P51026-YI2A_ECOLX Insertion element IS2A uncharacterized 48.2 kDa protein OS-Escherichia coli OX-562 PE-3 SV-2;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	9139	10044	509.0	+	0	ID=AP024497.1_342;annotation=sp-P0CF63-IND11_ECOLI Transposase InsD for insertion element IS2-11 OS-Escherichia coli strain K12 OX-83333 GN-JW5918 PE-4 SV-1 sp-P51026-YI2A_ECOLX Insertion element IS2A uncharacterized 48.2 kDa protein OS-Escherichia coli OX-562 PE-3 SV-2;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	10516	11066	134.0	-	0	ID=AP024497.1_-119;annotation=sp-Q56897-TRA8_YEREN Transposase for insertion sequence element IS1328 OS-Yersinia enterocolitica OX-630 PE-3 SV-1  potential psuedogene;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	10569	11573	452.0	-	0	ID=AP024497.1_466;annotation=sp-Q56897-TRA8_YEREN Transposase for insertion sequence element IS1328 OS-Yersinia enterocolitica OX-630 PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	11652	12209	218.0	-	0	ID=AP024497.1_77;annotation=sp-P03014-PINE_ECOLI Serine recombinase PinE OS-Escherichia coli strain K12 OX-83333 GN-pinE PE-3 SV-2 sp-Q02869-HIN_SALAE DNA-invertase OS-Salmonella abortus-equi OX-607 GN-hin PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	12203	12763	0	-	0	ID=AP024497.1_-118;annotation=hypothetical protein;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	12571	12963	0	-	0	ID=AP024497.1_595;annotation=hypothetical protein potential psuedogene;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	13119	13314	0	+	0	ID=AP024497.1_-114;annotation=hypothetical protein potential psuedogene;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	13995	14396	0	-	0	ID=AP024497.1_7;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	14393	14689	0	-	0	ID=AP024497.1_591;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	14842	17811	1941.0	+	0	ID=AP024497.1_473;annotation=sp-P06694-TNP2_ECOLX Transposase for transposon Tn21 OS-Escherichia coli OX-562 GN-tnpA PE-3 SV-1 sp-P13694-TNP7_ECOLX Transposase for transposon Tn3926 OS-Escherichia coli OX-562 GN-tnpA PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	17890	18894	452.0	+	0	ID=AP024497.1_204;annotation=sp-Q56897-TRA8_YEREN Transposase for insertion sequence element IS1328 OS-Yersinia enterocolitica OX-630 PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	19604	20107	345.0	+	0	ID=AP024497.1_-116;annotation=sp-P59843-INSB_HAEDU Insertion element IS1 protein InsB OS-Haemophilus ducreyi strain 35000HP / ATCC 700724 OX-233412 GN-insB PE-3 SV-1 sp-P0CF27-INSB3_ECOLI Insertion element IS1 3 protein InsB OS-Escherichia coli strain K12 OX-83333 GN-insB3 PE-3 SV-1;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	20042	21652	0	-	0	ID=AP024497.1_68;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	21636	22643	0	-	0	ID=AP024497.1_333;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	22825	23847	703.0	+	0	ID=AP024497.1_194;annotation=sp-P23832-SAMB_SALTM Protein SamB OS-Salmonella typhimurium OX-90371 GN-samB PE-3 SV-1 potential psuedogene;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	23528	23847	145.0	+	0	ID=AP024497.1_-112;annotation=sp-P23832-SAMB_SALTM Protein SamB OS-Salmonella typhimurium OX-90371 GN-samB PE-3 SV-1 potential psuedogene;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	23926	24177	0	+	0	ID=AP024497.1_141;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	24177	24536	0	+	0	ID=AP024497.1_568;annotation=hypothetical protein potential psuedogene;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	25647	26618	554.0	-	0	ID=AP024497.1_107;annotation=sp-P62558-SOPB_ECOLI Protein SopB OS-Escherichia coli strain K12 OX-83333 GN-sopB PE-1 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	26618	27784	774.0	-	0	ID=AP024497.1_75;annotation=sp-P62557-SOPA_ECO57 Protein SopA OS-Escherichia coli O157:H7 OX-83334 GN-sopA PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	28286	28453	0	-	0	ID=AP024497.1_302;annotation=hypothetical protein potential psuedogene;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	28535	29545	325.0	+	0	ID=AP024497.1_389;annotation=sp-Q934T6-REPA_SALTI Replication protein RepA OS-Salmonella typhi OX-90370 GN-repA PE-3 SV-1 sp-P05833-REPA_ECOLX Protein RepA OS-Escherichia coli OX-562 GN-repA PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	28943	29460	183.0	+	0	ID=AP024497.1_-111;annotation=sp-Q934T6-REPA_SALTI Replication protein RepA OS-Salmonella typhi OX-90370 GN-repA PE-3 SV-1 potential psuedogene;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	30243	30983	466.0	-	0	ID=AP024497.1_179;annotation=sp-P56979-INTM_ECOLI Probable site-specific recombinase OS-Escherichia coli strain K12 OX-83333 GN-intM PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	31347	32270	608.0	-	0	ID=AP024497.1_124;annotation=sp-P03009-TRA2_ECOLX Probable transposase for transposon Tn903 OS-Escherichia coli OX-562 PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	32467	32670	100.0	+	0	ID=AP024497.1_337;annotation=sp-P0A3X0-YMOA_YERPE Modulating protein YmoA OS-Yersinia pestis OX-632 GN-ymoA PE-1 SV-1 sp-P0A3X1-YMOA_YEREN Modulating protein YmoA OS-Yersinia enterocolitica OX-630 GN-ymoA PE-1 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	32684	32914	0	+	0	ID=AP024497.1_267;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	33359	33625	0	+	0	ID=AP024497.1_1;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	33613	34095	0	+	0	ID=AP024497.1_8;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	34180	35649	364.0	+	0	ID=AP024497.1_255;annotation=sp-P55373-Y4BF_SINFN Putative transposase y4bF OS-Sinorhizobium fredii strain NBRC 101917 / NGR234 OX-394 GN-NGR_a00240 PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	35698	36093	0	+	0	ID=AP024497.1_226;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	36204	37679	378.0	+	0	ID=AP024497.1_241;annotation=sp-P55373-Y4BF_SINFN Putative transposase y4bF OS-Sinorhizobium fredii strain NBRC 101917 / NGR234 OX-394 GN-NGR_a00240 PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	37919	38092	0	-	0	ID=AP024497.1_320;annotation=hypothetical protein potential psuedogene;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	38530	39096	0	-	0	ID=AP024497.1_373;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	39221	40864	1009.0	-	0	ID=AP024497.1_63;annotation=sp-P36938-PGM_ECOLI Phosphoglucomutase OS-Escherichia coli strain K12 OX-83333 GN-pgm PE-1 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	40978	41919	1407.0	-	0	ID=AP024497.1_254;annotation=sp-P0AC87-PHSG_SHIFL Glycogen phosphorylase OS-Shigella flexneri OX-623 GN-glgP PE-3 SV-1 potential psuedogene;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	41993	43420	1407.0	-	0	ID=AP024497.1_217;annotation=sp-P0AC87-PHSG_SHIFL Glycogen phosphorylase OS-Shigella flexneri OX-623 GN-glgP PE-3 SV-1 potential psuedogene;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	43439	44872	770.0	-	0	ID=AP024497.1_559;annotation=sp-A6TF48-GLGA_KLEP7 Glycogen synthase OS-Klebsiella pneumoniae subsp. pneumoniae strain ATCC 700721 / MGH 78578 OX-272620 GN-glgA PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	44962	46245	756.0	-	0	ID=AP024497.1_55;annotation=sp-P0A6V4-GLGC_SHIFL Glucose-1-phosphate adenylyltransferase OS-Shigella flexneri OX-623 GN-glgC PE-3 SV-2;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	46375	48576	1453.0	-	0	ID=AP024497.1_206;annotation=sp-A6TF51-GLGB_KLEP7 1 4-alpha-glucan branching enzyme GlgB OS-Klebsiella pneumoniae subsp. pneumoniae strain ATCC 700721 / MGH 78578 OX-272620 GN-glgB PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	48985	49908	608.0	+	0	ID=AP024497.1_-117;annotation=sp-P03009-TRA2_ECOLX Probable transposase for transposon Tn903 OS-Escherichia coli OX-562 PE-4 SV-1;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	48985	49908	608.0	+	0	ID=AP024497.1_528;annotation=sp-P03009-TRA2_ECOLX Probable transposase for transposon Tn903 OS-Escherichia coli OX-562 PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	50187	50409	42.0	+	0	ID=AP024497.1_-113;annotation=sp-P58614-GLGS_SALTY Surface composition regulator OS-Salmonella typhimurium strain LT2 / SGSC1412 / ATCC 700720 OX-99287 GN-glgS PE-3 SV-1 potential psuedogene;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	50378	50575	0	-	0	ID=AP024497.1_118;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	50971	51426	0	+	0	ID=AP024497.1_301;annotation=hypothetical protein potential psuedogene;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	51488	51883	171.0	+	0	ID=AP024497.1_-115;annotation=sp-P51026-YI2A_ECOLX Insertion element IS2A uncharacterized 48.2 kDa protein OS-Escherichia coli OX-562 PE-3 SV-2;inference=refound
+AP024497.1	ggCaller:1.3.4	CDS	51488	51883	305.0	+	0	ID=AP024497.1_363;annotation=sp-P51026-YI2A_ECOLX Insertion element IS2A uncharacterized 48.2 kDa protein OS-Escherichia coli OX-562 PE-3 SV-2 potential psuedogene;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	51841	52722	608.0	+	0	ID=AP024497.1_227;annotation=sp-P51026-YI2A_ECOLX Insertion element IS2A uncharacterized 48.2 kDa protein OS-Escherichia coli OX-562 PE-3 SV-2 sp-P0CF56-INSD4_ECOLI Transposase InsD for insertion element IS2H OS-Escherichia coli strain K12 OX-83333 GN-insD4 PE-4 SV-1 sp-P0CF64-IND12_ECOLI Transposase InsD for insertion element IS2-12 OS-Escherichia coli strain K12 OX-83333 GN-JW5933 PE-4 SV-1 sp-P0CF63-IND11_ECOLI Transposase InsD for insertion element IS2-11 OS-Escherichia coli strain K12 OX-83333 GN-JW5918 PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	53961	54884	599.0	+	0	ID=AP024497.1_266;annotation=sp-P03009-TRA2_ECOLX Probable transposase for transposon Tn903 OS-Escherichia coli OX-562 PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	55087	55662	373.0	-	0	ID=AP024497.1_214;annotation=sp-Q52358-TERE_SERMA Tellurium resistance protein TerE OS-Serratia marcescens OX-615 GN-terE PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	55731	56309	371.0	-	0	ID=AP024497.1_419;annotation=sp-Q52357-TERD_SERMA Tellurium resistance protein TerD OS-Serratia marcescens OX-615 GN-terD PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	56358	57398	669.0	-	0	ID=AP024497.1_511;annotation=sp-Q52356-TERC_SERMA Tellurium resistance protein TerC OS-Serratia marcescens OX-615 GN-terC PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	57899	59056	527.0	-	0	ID=AP024497.1_120;annotation=sp-P18778-TERA_ALCSP Tellurium resistance protein TerA OS-Alcaligenes sp. OX-512 GN-terA PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	59056	59637	390.0	-	0	ID=AP024497.1_536;annotation=sp-Q52353-TERZ_SERMA Tellurium resistance protein TerZ OS-Serratia marcescens OX-615 GN-terZ PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	59960	61018	0	+	0	ID=AP024497.1_406;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	61022	62170	0	+	0	ID=AP024497.1_602;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	62872	64017	327.0	+	0	ID=AP024497.1_36;annotation=sp-Q6FAX7-STIP_ACIAD Cysteine protease StiP OS-Acinetobacter baylyi strain ATCC 33305 / BD413 / ADP1 OX-62977 GN-stiP PE-1 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	64062	64973	0	+	0	ID=AP024497.1_415;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	64984	66192	0	+	0	ID=AP024497.1_500;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	66210	66677	288.0	+	0	ID=AP024497.1_358;annotation=sp-P75010-TERW_SERMA Tellurium resistance protein TerW OS-Serratia marcescens OX-615 GN-terW PE-4 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	66847	66984	0	-	0	ID=AP024497.1_43;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	67141	67779	0	+	0	ID=AP024497.1_0;annotation=hypothetical protein;inference=prediction
+AP024497.1	ggCaller:1.3.4	CDS	67802	68443	424.0	+	0	ID=AP024497.1_502;annotation=sp-P75012-TERX_SERMA Tellurium resistance protein TerX OS-Serratia marcescens OX-615 GN-terX PE-3 SV-1;inference=annotation
+AP024497.1	ggCaller:1.3.4	CDS	68963	70207	77.8	+	0	ID=AP024497.1_408;annotation=sp-P76396-YEGL_ECOLI Uncharacterized protein YegL OS-Escherichia coli strain K12 OX-83333 GN-yegL PE-4 SV-1;inference=annotation

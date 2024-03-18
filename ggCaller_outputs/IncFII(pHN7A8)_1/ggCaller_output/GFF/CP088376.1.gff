@@ -1,0 +1,90 @@
+##gff-version 3
+##sequence-region CP088376.1 1 71927
+CP088376.1	ggCaller:1.3.4	CDS	301	1116	510.0	+	0	ID=CP088376.1_444;annotation=sp-P0AC11-DHP2_ECOLX Dihydropteroate synthase type-2 OS-Escherichia coli OX-562 GN-sulII PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	1177	1783	43.9	+	0	ID=CP088376.1_-88;annotation=sp-P00555-KKA5_STRFR Aminoglycoside 3-phosphotransferase OS-Streptomyces fradiae OX-1906 GN-aph PE-3 SV-1 potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	1177	1980	254.0	+	0	ID=CP088376.1_521;annotation=sp-P18150-APHE_STRGR Streptomycin 3-kinase OS-Streptomyces griseus OX-1911 GN-aphE PE-3 SV-1 potential psuedogene;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	1222	1420	0	+	0	ID=CP088376.1_-92;annotation=hypothetical protein potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	1986	2816	101.0	+	0	ID=CP088376.1_330;annotation=sp-P07783-YPQR_ACICA Uncharacterized protein in PQQ-III 3region Fragment OS-Acinetobacter calcoaceticus OX-471 PE-3 SV-1 sp-P13082-STR_KLEPN Streptomycin 3-kinase OS-Klebsiella pneumoniae OX-573 GN-str PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	3122	3364	0	+	0	ID=CP088376.1_472;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	3396	4073	424.0	-	0	ID=CP088376.1_15;annotation=sp-P03038-TETR1_ECOLX Tetracycline repressor protein class A from transposon 1721 OS-Escherichia coli OX-562 GN-tetR PE-1 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	4152	4779	345.0	+	0	ID=CP088376.1_-87;annotation=sp-P02982-TCR1_ECOLX Tetracycline resistance protein  class A OS-Escherichia coli OX-562 GN-tetA PE-3 SV-2 potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	4152	5351	769.0	+	0	ID=CP088376.1_325;annotation=sp-P02982-TCR1_ECOLX Tetracycline resistance protein  class A OS-Escherichia coli OX-562 GN-tetA PE-3 SV-2 potential psuedogene;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	5618	5998	0	-	0	ID=CP088376.1_47;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	6440	7363	0	-	0	ID=CP088376.1_39;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	7411	7575	0	-	0	ID=CP088376.1_232;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	7572	7841	0	-	0	ID=CP088376.1_431;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	8006	8191	207.0	-	0	ID=CP088376.1_211;annotation=sp-P03848-YPRR_ECOLX Uncharacterized protein repA4 OS-Escherichia coli OX-562 GN-repA4 PE-4 SV-1 potential psuedogene;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	8768	9802	625.0	-	0	ID=CP088376.1_587;annotation=sp-Q52346-REP8_ECOLX Replication initiation protein OS-Escherichia coli OX-562 GN-repA PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	10093	10350	98.6	-	0	ID=CP088376.1_163;annotation=sp-P03847-COPB2_ECOLX Replication regulatory protein repA2 OS-Escherichia coli OX-562 GN-repA2 PE-4 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	10907	11239	0	-	0	ID=CP088376.1_341;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	11470	12483	0	-	0	ID=CP088376.1_293;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	12590	12898	0	-	0	ID=CP088376.1_364;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	12895	13605	0	-	0	ID=CP088376.1_482;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	13602	13955	0	-	0	ID=CP088376.1_22;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	13997	14755	130.0	-	0	ID=CP088376.1_106;annotation=sp-P22710-TRAX2_ECOLX Protein TraX OS-Escherichia coli OX-562 GN-traX PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	15309	20606	1392.0	-	0	ID=CP088376.1_671;annotation=sp-P14565-TRAI1_ECOLI Multifunctional conjugation protein TraI OS-Escherichia coli strain K12 OX-83333 GN-traI PE-1 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	20305	20606	100.0	-	0	ID=CP088376.1_-89;annotation=sp-P14565-TRAI1_ECOLI Multifunctional conjugation protein TraI OS-Escherichia coli strain K12 OX-83333 GN-traI PE-1 SV-2 potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	20606	22837	678.0	-	0	ID=CP088376.1_540;annotation=sp-P22708-TRAD2_ECOLX Coupling protein TraD OS-Escherichia coli OX-562 GN-traD PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	22981	23730	398.0	-	0	ID=CP088376.1_150;annotation=sp-P13980-TRAT3_ECOLX TraT complement resistance protein OS-Escherichia coli OX-562 GN-traT PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	23862	24440	137.0	-	0	ID=CP088376.1_647;annotation=sp-P14498-TRAS2_ECOLX Protein TraS OS-Escherichia coli OX-562 GN-traS PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	24448	27336	533.0	-	0	ID=CP088376.1_417;annotation=sp-P33790-TRAG1_ECOLI Protein TraG OS-Escherichia coli strain K12 OX-83333 GN-traG PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	27338	28699	435.0	-	0	ID=CP088376.1_38;annotation=sp-P15069-TRAH1_ECOLI Protein TraH OS-Escherichia coli strain K12 OX-83333 GN-traH PE-3 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	28705	29307	149.0	-	0	ID=CP088376.1_533;annotation=sp-P18035-TRBB_ECOLI Protein TrbB OS-Escherichia coli strain K12 OX-83333 GN-trbB PE-3 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	29331	30110	0	-	0	ID=CP088376.1_139;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	30107	31945	508.0	-	0	ID=CP088376.1_134;annotation=sp-P24082-TRAN_ECOLI Mating pair stabilization protein TraN OS-Escherichia coli strain K12 OX-83333 GN-traN PE-1 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	31942	32730	127.0	-	0	ID=CP088376.1_221;annotation=sp-P18473-TRBC_ECOLI Periplasmic protein TrbC OS-Escherichia coli strain K12 OX-83333 GN-trbC PE-4 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	32825	32990	0	-	0	ID=CP088376.1_-94;annotation=hypothetical protein potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	32932	33918	491.0	-	0	ID=CP088376.1_424;annotation=sp-P18471-TRAU_ECOLI Protein TraU OS-Escherichia coli strain K12 OX-83333 GN-traU PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	33159	33417	79.7	-	0	ID=CP088376.1_-91;annotation=sp-P18471-TRAU_ECOLI Protein TraU OS-Escherichia coli strain K12 OX-83333 GN-traU PE-3 SV-1 potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	33915	34550	196.0	-	0	ID=CP088376.1_203;annotation=sp-P18472-TRAW_ECOLI Protein TraW OS-Escherichia coli strain K12 OX-83333 GN-traW PE-3 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	34550	35014	79.0	-	0	ID=CP088376.1_201;annotation=sp-P18006-TRBI_ECOLI Protein TrbI OS-Escherichia coli strain K12 OX-83333 GN-trbI PE-4 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	35011	37602	954.0	-	0	ID=CP088376.1_555;annotation=sp-P18004-TRAC_ECOLI Protein TraC OS-Escherichia coli strain K12 OX-83333 GN-traC PE-1 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	37613	38212	80.9	-	0	ID=CP088376.1_611;annotation=sp-P41069-TRAV_ECOLI Protein TraV OS-Escherichia coli strain K12 OX-83333 GN-traV PE-1 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	38272	38682	0	-	0	ID=CP088376.1_630;annotation=hypothetical protein potential psuedogene;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	38666	38851	0	-	0	ID=CP088376.1_43;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	38855	39121	0	-	0	ID=CP088376.1_574;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	39191	40576	354.0	-	0	ID=CP088376.1_124;annotation=sp-P41067-TRAB1_ECOLI Protein TraB OS-Escherichia coli strain K12 OX-83333 GN-traB PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	40542	41282	0	-	0	ID=CP088376.1_351;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	41272	41835	338.0	-	0	ID=CP088376.1_660;annotation=sp-P12057-TRAE1_SALTI Protein TraE OS-Salmonella typhi OX-90370 GN-traE PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	41855	42160	192.0	-	0	ID=CP088376.1_210;annotation=sp-P12058-TRAL_SALTI Protein TraL OS-Salmonella typhi OX-90370 GN-traL PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	42162	42521	195.0	-	0	ID=CP088376.1_230;annotation=sp-P12060-PIL1_SALTI Pilin OS-Salmonella typhi OX-90370 GN-traA PE-1 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	42618	42785	0	-	0	ID=CP088376.1_519;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	43001	43282	0	-	0	ID=CP088376.1_179;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	43761	44147	159.0	-	0	ID=CP088376.1_12;annotation=sp-P33788-TRAM8_ECOLX Relaxosome protein TraM OS-Escherichia coli OX-562 GN-traM PE-1 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	44473	45123	354.0	+	0	ID=CP088376.1_76;annotation=sp-P14499-X191_ECOLX X polypeptide OS-Escherichia coli OX-562 GN-X PE-3 SV-1 sp-P47737-X19F_ECOLI X polypeptide OS-Escherichia coli strain K12 OX-83333 GN-yubQ PE-3 SV-1 sp-P17738-X192_ECOLX X polypeptide OS-Escherichia coli OX-562 GN-X PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	45421	46242	552.0	-	0	ID=CP088376.1_457;annotation=sp-P18005-YUBP_ECOLI UPF0380 protein YubP OS-Escherichia coli strain K12 OX-83333 GN-yubP PE-3 SV-3;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	46352	46648	0	-	0	ID=CP088376.1_164;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	47595	47912	0	-	0	ID=CP088376.1_585;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	47896	48219	0	-	0	ID=CP088376.1_552;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	49111	49272	107.0	-	0	ID=CP088376.1_178;annotation=sp-P13970-SRNB_ECOLI Protein SrnB OS-Escherichia coli strain K12 OX-83333 GN-srnB PE-3 SV-1 sp-P62671-FLMA_ECO57 Stable plasmid inheritance protein OS-Escherichia coli O157:H7 OX-83334 GN-flmA PE-3 SV-1 sp-P11895-HOK_ECOLX Protein Hok OS-Escherichia coli OX-562 GN-hok PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	49480	49794	0	-	0	ID=CP088376.1_233;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	50300	51019	476.0	-	0	ID=CP088376.1_238;annotation=sp-P18148-PSIA1_ECOLI Protein PsiA OS-Escherichia coli strain K12 OX-83333 GN-psiA PE-4 SV-1 sp-P17976-PSIA2_ECOLX Protein PsiA OS-Escherichia coli OX-562 GN-psiA PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	51016	51450	288.0	-	0	ID=CP088376.1_445;annotation=sp-P10032-PSIB2_ECOLX Protein PsiB OS-Escherichia coli OX-562 GN-psiB PE-4 SV-1 sp-P10031-PSIB1_ECOLI Protein PsiB OS-Escherichia coli strain K12 OX-83333 GN-psiB PE-1 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	51505	53472	1250.0	-	0	ID=CP088376.1_429;annotation=sp-Q9ZGR8-YUBM_ECO57 Uncharacterized protein YubM OS-Escherichia coli O157:H7 OX-83334 GN-yubM PE-3 SV-2 sp-Q9S4W2-YUBM_ECOLI Uncharacterized protein YubM OS-Escherichia coli strain K12 OX-83333 GN-yubM PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	53825	54352	348.0	-	0	ID=CP088376.1_406;annotation=sp-P28045-SSBR_ECOLX Plasmid-derived single-stranded DNA-binding protein OS-Escherichia coli OX-562 GN-ssb PE-3 SV-2 sp-Q9JMR3-YUBL1_ECOLI UPF0401 protein YubL OS-Escherichia coli strain K12 OX-83333 GN-yubL PE-3 SV-1 sp-Q5J3W6-YUBL_SALCH UPF0401 protein YubL OS-Salmonella choleraesuis strain SC-B67 OX-321314 GN-yubL PE-3 SV-2 sp-Q5QJF4-YUBL_SALTM UPF0401 protein YubL OS-Salmonella typhimurium OX-90371 GN-yubL PE-3 SV-1 sp-Q5JBK6-YUBL2_ECOLX UPF0401 protein YubL OS-Escherichia coli OX-562 GN-yubL PE-3 SV-2 sp-Q1R1U5-YUBL_ECOUT UPF0401 protein YubL OS-Escherichia coli strain UTI89 / UPEC OX-364106 GN-yubL PE-3 SV-1 sp-P28043-SSB2_ECOLX Plasmid-derived single-stranded DNA-binding protein OS-Escherichia coli OX-562 GN-ssb PE-3 SV-2 sp-P18310-SSBF_ECOLI Plasmid-derived single-stranded DNA-binding protein OS-Escherichia coli strain K12 OX-83333 GN-ssbF PE-3 SV-3 sp-P28044-SSB7_ECOLX Plasmid-derived single-stranded DNA-binding protein OS-Escherichia coli OX-562 GN-ssb PE-1 SV-2 potential psuedogene;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	55196	55759	0	-	0	ID=CP088376.1_612;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	55805	57166	0	-	0	ID=CP088376.1_307;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	57170	57430	0	+	0	ID=CP088376.1_90;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	58607	59029	271.0	-	0	ID=CP088376.1_299;annotation=sp-O82902-YUBJ_ECO57 Uncharacterized protein YubJ OS-Escherichia coli O157:H7 OX-83334 GN-yubJ PE-4 SV-1 potential psuedogene;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	59076	59501	301.0	-	0	ID=CP088376.1_146;annotation=sp-Q9S4W7-YUBI_ECOLI Putative antirestriction protein YubI OS-Escherichia coli strain K12 OX-83333 GN-yubI PE-3 SV-1 potential psuedogene;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	59917	60687	499.0	-	0	ID=CP088376.1_658;annotation=sp-O82899-YUBG_ECO57 Uncharacterized protein YubG OS-Escherichia coli O157:H7 OX-83334 GN-L7076 PE-4 SV-1 sp-Q9S4W9-YUBG_ECOLI Uncharacterized protein YubG OS-Escherichia coli strain K12 OX-83333 GN-yubG PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	60732	61166	284.0	-	0	ID=CP088376.1_317;annotation=sp-O82898-YUBF_ECO57 Uncharacterized protein YubF OS-Escherichia coli O157:H7 OX-83334 GN-yubF PE-4 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	61180	61401	148.0	-	0	ID=CP088376.1_546;annotation=sp-Q9S4X1-YUBE_ECOLI Uncharacterized protein YubE OS-Escherichia coli strain K12 OX-83333 GN-yubE PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	61402	62085	468.0	-	0	ID=CP088376.1_99;annotation=sp-Q9S4X2-YUBD_ECOLI Putative methylase YubD OS-Escherichia coli strain K12 OX-83333 GN-yubD PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	62470	63396	338.0	-	0	ID=CP088376.1_493;annotation=sp-Q9S4X5-YUBA_ECOLI Uncharacterized protein YubA OS-Escherichia coli strain K12 OX-83333 GN-yubA PE-4 SV-1 sp-Q9S4X4-YUBB_ECOLI Uncharacterized protein YubB OS-Escherichia coli strain K12 OX-83333 GN-yubB PE-4 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	63467	63838	167.0	-	0	ID=CP088376.1_467;annotation=sp-Q1R1W4-YUBC_ECOUT Uncharacterized protein YubC OS-Escherichia coli strain UTI89 / UPEC OX-364106 GN-yubC PE-4 SV-1 sp-O82896-YUBC_ECO57 Uncharacterized protein YubC OS-Escherichia coli O157:H7 OX-83334 GN-yubC PE-4 SV-1 sp-Q8VSE0-YUBC_SHIFL Uncharacterized protein YubC OS-Shigella flexneri OX-623 GN-yubC PE-4 SV-2;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	63907	64869	632.0	+	0	ID=CP088376.1_327;annotation=sp-P11904-PARM_ECOLX Plasmid segregation protein ParM OS-Escherichia coli OX-562 GN-parM PE-1 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	64342	64475	55.8	+	0	ID=CP088376.1_-96;annotation=sp-P11904-PARM_ECOLX Plasmid segregation protein ParM OS-Escherichia coli OX-562 GN-parM PE-1 SV-1 potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	64869	65222	222.0	+	0	ID=CP088376.1_289;annotation=sp-P11906-STBB_ECOLX Protein StbB OS-Escherichia coli OX-562 GN-stbB PE-1 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	65331	65593	0	+	0	ID=CP088376.1_-90;annotation=hypothetical protein potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	65685	66566	0	-	0	ID=CP088376.1_488;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	67021	67725	87.8	-	0	ID=CP088376.1_-98;annotation=sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	67021	67725	126.0	-	0	ID=CP088376.1_256;annotation=sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2 sp-P0A045-T431_STAAW Transposase for insertion sequence-like element IS431mec OS-Staphylococcus aureus strain MW2 OX-196620 GN-tnp PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	67021	67725	87.8	-	0	ID=CP088376.1_-99;annotation=sp-P0ACT4-TETR4_ECOLX Tetracycline repressor protein class D OS-Escherichia coli OX-562 GN-tetR PE-1 SV-2 sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	67347	67497	50.4	-	0	ID=CP088376.1_-95;annotation=sp-P37133-Y4551_YERPS Uncharacterized protein pYV0051 OS-Yersinia pseudotuberculosis serotype I strain IP32953 OX-273123 GN-pYV0051 PE-4 SV-2 potential psuedogene;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	67762	68418	0	-	0	ID=CP088376.1_624;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	68415	68924	337.0	-	0	ID=CP088376.1_342;annotation=sp-P0ABQ7-DYR8_ECOLX Dihydrofolate reductase type 8 OS-Escherichia coli OX-562 GN-dhfrVIII PE-3 SV-1;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	69846	70706	565.0	+	0	ID=CP088376.1_-97;annotation=sp-P62593-BLAT_ECOLX Beta-lactamase TEM OS-Escherichia coli OX-562 GN-bla PE-1 SV-1 sp-Q48406-BLAT_KLEOX Beta-lactamase TEM-12 OS-Klebsiella oxytoca OX-571 GN-blaT-12b PE-1 SV-1;inference=refound
+CP088376.1	ggCaller:1.3.4	CDS	70956	71222	131.0	+	0	ID=CP088376.1_452;annotation=sp-P15255-65KD_ZYMMA 65 kDa protein OS-Zymomonas mobilis subsp. mobilis strain ATCC 10988 / DSM 424 / LMG 404 / NCIMB 8938 / NRRL B-806 / ZM1 OX-555217 GN-Zmob_1874 PE-4 SV-2  potential psuedogene;inference=annotation
+CP088376.1	ggCaller:1.3.4	CDS	71478	71699	0	-	0	ID=CP088376.1_626;annotation=hypothetical protein;inference=prediction
+CP088376.1	ggCaller:1.3.4	CDS	71690	71893	0	-	0	ID=CP088376.1_372;annotation=hypothetical protein;inference=prediction
