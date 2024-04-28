@@ -1,0 +1,277 @@
+ID   Genome standard; DNA; PRO; 1234 BP.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   feature         1..801
+FT                   /label=CID_4397.aln
+FT                   /locus_tag=CID_4397.aln
+FT   feature         802..3159
+FT                   /label=CID_4567.aln
+FT                   /locus_tag=CID_4567.aln
+FT   feature         3160..4155
+FT                   /label=CID_4438.aln
+FT                   /locus_tag=CID_4438.aln
+FT   feature         4156..5223
+FT                   /label=CID_4482.aln
+FT                   /locus_tag=CID_4482.aln
+FT   feature         5224..6390
+FT                   /label=CID_4523.aln
+FT                   /locus_tag=CID_4523.aln
+FT   feature         6391..7113
+FT                   /label=CID_4490.aln
+FT                   /locus_tag=CID_4490.aln
+FT   feature         7114..7428
+FT                   /label=CID_4448.aln
+FT                   /locus_tag=CID_4448.aln
+FT   feature         7429..7881
+FT                   /label=CID_4154.aln
+FT                   /locus_tag=CID_4154.aln
+FT   feature         7882..8541
+FT                   /label=CID_4496.aln
+FT                   /locus_tag=CID_4496.aln
+FT   feature         8542..8784
+FT                   /label=CID_4547.aln
+FT                   /locus_tag=CID_4547.aln
+FT   feature         8785..9249
+FT                   /label=CID_4400.aln
+FT                   /locus_tag=CID_4400.aln
+FT   feature         9250..10392
+FT                   /label=CID_4540.aln
+FT                   /locus_tag=CID_4540.aln
+FT   feature         10393..10782
+FT                   /label=CID_4601.aln
+FT                   /locus_tag=CID_4601.aln
+FT   feature         10783..11019
+FT                   /label=CID_4225.aln
+FT                   /locus_tag=CID_4225.aln
+FT   feature         11020..11694
+FT                   /label=CID_1283.aln
+FT                   /locus_tag=CID_1283.aln
+FT   feature         11695..12639
+FT                   /label=CID_4558.aln
+FT                   /locus_tag=CID_4558.aln
+FT   feature         12640..12999
+FT                   /label=CID_4185.aln
+FT                   /locus_tag=CID_4185.aln
+FT   feature         13000..13560
+FT                   /label=CID_4335.aln
+FT                   /locus_tag=CID_4335.aln
+FT   feature         13561..14436
+FT                   /label=CID_4615.aln
+FT                   /locus_tag=CID_4615.aln
+FT   feature         14437..14628
+FT                   /label=CID_4591.aln
+FT                   /locus_tag=CID_4591.aln
+FT   feature         14629..15111
+FT                   /label=CID_1576.aln
+FT                   /locus_tag=CID_1576.aln
+FT   feature         15112..16476
+FT                   /label=CID_4513.aln
+FT                   /locus_tag=CID_4513.aln
+FT   feature         16477..18081
+FT                   /label=CID_4568.aln
+FT                   /locus_tag=CID_4568.aln
+FT   feature         18082..18870
+FT                   /label=CID_4551.aln
+FT                   /locus_tag=CID_4551.aln
+FT   feature         18871..19299
+FT                   /label=CID_4465.aln
+FT                   /locus_tag=CID_4465.aln
+FT   feature         19300..19563
+FT                   /label=CID_4569.aln
+FT                   /locus_tag=CID_4569.aln
+FT   feature         19564..20175
+FT                   /label=CID_4583.aln
+FT                   /locus_tag=CID_4583.aln
+FT   feature         20176..20535
+FT                   /label=CID_4073.aln
+FT                   /locus_tag=CID_4073.aln
+FT   feature         20536..20868
+FT                   /label=CID_4572.aln
+FT                   /locus_tag=CID_4572.aln
+FT   feature         20869..21573
+FT                   /label=CID_4502.aln
+FT                   /locus_tag=CID_4502.aln
+FT   feature         21574..22047
+FT                   /label=CID_3861.aln
+FT                   /locus_tag=CID_3861.aln
+FT   feature         22048..22653
+FT                   /label=CID_4296.aln
+FT                   /locus_tag=CID_4296.aln
+FT   feature         22654..25497
+FT                   /label=CID_4387.aln
+FT                   /locus_tag=CID_4387.aln
+FT   feature         25498..25905
+FT                   /label=CID_4195.aln
+FT                   /locus_tag=CID_4195.aln
+FT   feature         25906..27237
+FT                   /label=CID_4544.aln
+FT                   /locus_tag=CID_4544.aln
+FT   feature         27238..27696
+FT                   /label=CID_4592.aln
+FT                   /locus_tag=CID_4592.aln
+FT   feature         27697..28167
+FT                   /label=CID_4595.aln
+FT                   /locus_tag=CID_4595.aln
+FT   feature         28168..28812
+FT                   /label=CID_4470.aln
+FT                   /locus_tag=CID_4470.aln
+FT   feature         28813..29598
+FT                   /label=CID_4510.aln
+FT                   /locus_tag=CID_4510.aln
+FT   feature         29599..29850
+FT                   /label=CID_4511.aln
+FT                   /locus_tag=CID_4511.aln
+FT   feature         29851..30495
+FT                   /label=CID_1188.aln
+FT                   /locus_tag=CID_1188.aln
+FT   feature         30496..31524
+FT                   /label=CID_4491.aln
+FT                   /locus_tag=CID_4491.aln
+FT   feature         31525..32217
+FT                   /label=CID_4486.aln
+FT                   /locus_tag=CID_4486.aln
+FT   feature         32218..32664
+FT                   /label=CID_4526.aln
+FT                   /locus_tag=CID_4526.aln
+FT   feature         32665..33369
+FT                   /label=CID_4488.aln
+FT                   /locus_tag=CID_4488.aln
+FT   feature         33370..34020
+FT                   /label=CID_4278.aln
+FT                   /locus_tag=CID_4278.aln
+FT   feature         34021..34896
+FT                   /label=CID_4589.aln
+FT                   /locus_tag=CID_4589.aln
+FT   feature         34897..35838
+FT                   /label=CID_4468.aln
+FT                   /locus_tag=CID_4468.aln
+FT   feature         35839..37554
+FT                   /label=CID_4616.aln
+FT                   /locus_tag=CID_4616.aln
+FT   feature         37555..41088
+FT                   /label=CID_4365.aln
+FT                   /locus_tag=CID_4365.aln
+FT   feature         41089..41466
+FT                   /label=CID_4081.aln
+FT                   /locus_tag=CID_4081.aln
+FT   feature         41467..41985
+FT                   /label=CID_3987.aln
+FT                   /locus_tag=CID_3987.aln
+FT   feature         41986..42930
+FT                   /label=CID_4570.aln
+FT                   /locus_tag=CID_4570.aln
+FT   feature         42931..43509
+FT                   /label=CID_4340.aln
+FT                   /locus_tag=CID_4340.aln
+FT   feature         43510..43734
+FT                   /label=CID_2767.aln
+FT                   /locus_tag=CID_2767.aln
+FT   feature         43735..44478
+FT                   /label=CID_4600.aln
+FT                   /locus_tag=CID_4600.aln
+FT   feature         44479..44835
+FT                   /label=CID_4192.aln
+FT                   /locus_tag=CID_4192.aln
+FT   feature         44836..45753
+FT                   /label=CID_4584.aln
+FT                   /locus_tag=CID_4584.aln
+FT   feature         45754..59241
+FT                   /label=CID_4582.aln
+FT                   /locus_tag=CID_4582.aln
+FT   feature         59242..59883
+FT                   /label=CID_4104.aln
+FT                   /locus_tag=CID_4104.aln
+FT   feature         59884..60798
+FT                   /label=CID_4594.aln
+FT                   /locus_tag=CID_4594.aln
+FT   feature         60799..60993
+FT                   /label=CID_3193.aln
+FT                   /locus_tag=CID_3193.aln
+FT   feature         60994..61272
+FT                   /label=CID_4168.aln
+FT                   /locus_tag=CID_4168.aln
+FT   feature         61273..61617
+FT                   /label=CID_4380.aln
+FT                   /locus_tag=CID_4380.aln
+FT   feature         61618..61944
+FT                   /label=CID_4577.aln
+FT                   /locus_tag=CID_4577.aln
+FT   feature         61945..63348
+FT                   /label=CID_4474.aln
+FT                   /locus_tag=CID_4474.aln
+FT   feature         63349..68007
+FT                   /label=CID_4566.aln
+FT                   /locus_tag=CID_4566.aln
+FT   feature         68008..69474
+FT                   /label=CID_4549.aln
+FT                   /locus_tag=CID_4549.aln
+FT   feature         69475..70971
+FT                   /label=CID_4565.aln
+FT                   /locus_tag=CID_4565.aln
+FT   feature         70972..71259
+FT                   /label=CID_4489.aln
+FT                   /locus_tag=CID_4489.aln
+FT   feature         71260..71481
+FT                   /label=CID_2896.aln
+FT                   /locus_tag=CID_2896.aln
+FT   feature         71482..72243
+FT                   /label=CID_4341.aln
+FT                   /locus_tag=CID_4341.aln
+FT   feature         72244..74661
+FT                   /label=CID_4290.aln
+FT                   /locus_tag=CID_4290.aln
+FT   feature         74662..74970
+FT                   /label=CID_4216.aln
+FT                   /locus_tag=CID_4216.aln
+FT   feature         74971..75327
+FT                   /label=CID_4288.aln
+FT                   /locus_tag=CID_4288.aln
+FT   feature         75328..75597
+FT                   /label=CID_2468.aln
+FT                   /locus_tag=CID_2468.aln
+FT   feature         75598..77925
+FT                   /label=CID_4429.aln
+FT                   /locus_tag=CID_4429.aln
+FT   feature         77926..79122
+FT                   /label=CID_4436.aln
+FT                   /locus_tag=CID_4436.aln
+FT   feature         79123..79380
+FT                   /label=CID_2560.aln
+FT                   /locus_tag=CID_2560.aln
+FT   feature         79381..79764
+FT                   /label=CID_4525.aln
+FT                   /locus_tag=CID_4525.aln
+FT   feature         79765..80871
+FT                   /label=CID_4430.aln
+FT                   /locus_tag=CID_4430.aln
+FT   feature         80872..81525
+FT                   /label=CID_4120.aln
+FT                   /locus_tag=CID_4120.aln
+FT   feature         81526..82341
+FT                   /label=CID_4204.aln
+FT                   /locus_tag=CID_4204.aln
+FT   feature         82342..83496
+FT                   /label=CID_4503.aln
+FT                   /locus_tag=CID_4503.aln
+FT   feature         83497..85410
+FT                   /label=CID_4481.aln
+FT                   /locus_tag=CID_4481.aln
+FT   feature         85411..86058
+FT                   /label=CID_4499.aln
+FT                   /locus_tag=CID_4499.aln
+FT   feature         86059..86268
+FT                   /label=CID_4455.aln
+FT                   /locus_tag=CID_4455.aln
+FT   feature         86269..87501
+FT                   /label=CID_4366.aln
+FT                   /locus_tag=CID_4366.aln
+FT   feature         87502..89001
+FT                   /label=CID_4560.aln
+FT                   /locus_tag=CID_4560.aln
+FT   feature         89002..89880
+FT                   /label=CID_4421.aln
+FT                   /locus_tag=CID_4421.aln
+XX
+SQ   Sequence 1234 BP; 789 A; 1717 C; 1693 G; 691 T; 0 other;
+//
