@@ -1,0 +1,92 @@
+---
+title: "tree_trimmed.Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+```{r}
+setwd("C:/Users/dnagy/OneDrive - Nexus365/Documents/DPhil Clin Medicine/DPhil/F-Plasmid Manuscript/plasmid_families/IncFIB_pKPHS1/ggCaller_core_output")
+if (!requireNamespace("ape", quietly = TRUE)) {
+  install.packages("ape")
+}
+library(ape)
+
+# Read the Newick tree into R
+tree1 <- read.tree("plasmid_families/IncFIB_pKPHS1/ggCaller_core_output/core_tree_NJ.nwk")
+
+'0' %in% tree1$edge.length
+branch_lengths <- tree1$edge.length
+hist(branch_lengths, main = "Distribution of Branch Lengths", xlab = "Branch Length", ylab = "Frequency", breaks = seq(0, max(branch_lengths) + 1, by = 1))
+plot(tree1)
+
+nonzero_branch_lengths <- tree1$edge.length[tree1$edge.length > 0]
+print(min(nonzero_branch_lengths)) # 0.0061646
+
+#Still try to delete all 0-length branches.
+zero_length_indices <- which(tree1$edge.length == 0)
+print(zero_length_indices)
+print(length(zero_length_indices))
+
+#Try making 0 branches very short
+small_value <- 1e-20
+tree1$edge.length[tree1$edge.length == 0] <- small_value
+'0' %in% tree1$edge.length
+plot(tree1)
+num_zero_branch_lengths <- sum(tree1$edge.length == 0)
+print(num_zero_branch_lengths)
+branch_lengths <- tree1$edge.length
+hist(branch_lengths, main = "Distribution of Branch Lengths", xlab = "Branch Length", ylab = "Frequency", breaks = seq(0, max(branch_lengths) + 1, by = 1))
+write.tree(tree1, "plasmid_families/IncFIB_pKPHS1/ggCaller_core_output/modified_core_tree.nwk")
+
+
+#Deleting branches does not really work, as not all 0-length branches will be tips- then will have big problems if you cut internal branches, as have disconnected phylogeny. Indeed, the below code gets stuck in an infinite loop, as the 2rd branch in internal (each connected node has 3 other connection, as it appears 3 times in the edges matrix), and so the zero_length_indices matrix does not reduce in size -> therefore stick to the 1st method, where 0-branches are replaced with very small values. 
+#while (length(zero_length_indices) >=1) {
+ # edge_row <- tree1$edge[zero_length_indices[1],]
+  #for (i in 1:length(edge_row)) {
+   # if (sum(tree1$edge ==edge_row[i]) >1) {
+    #  next
+    #} else {
+     # tree1 <- drop.tip(tree1, edge_row[i], trim.internal ==TRUE)
+      #zero_length_indices <- which(tree1$edge.length == 0)
+  #  }
+#  }
+#}
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+```{r}
+tree2 <- read.tree("plasmid_families/IncFIB_pHCM2/ggCaller_core_output/core_tree_NJ.nwk")
+
+
+'0' %in% tree2$edge.length
+branch_lengths2 <- tree2$edge.length
+hist(branch_lengths2, main = "Distribution of Branch Lengths pHCM2", xlab = "Branch Length", ylab = "Frequency", breaks = seq(0, max(branch_lengths) + 1, by = 1))
+plot(tree2)
+num_zero_branch_lengths2 <- sum(tree2$edge.length == 0)
+print(num_zero_branch_lengths2) #109
+nonzero_branch_lengths2 <- tree2$edge.length[tree2$edge.length > 0]
+print(min(nonzero_branch_lengths2)) # 0.0061646
+
+#Try making 0 branches very short
+small_value <- 1e-20
+tree2$edge.length[tree2$edge.length == 0] <- small_value
+'0' %in% tree2$edge.length
+plot(tree2)
+num_zero_branch_lengths2 <- sum(tree2$edge.length == 0)
+print(num_zero_branch_lengths2)
+branch_lengths2 <- tree2$edge.length
+hist(branch_lengths2, main = "Distribution of Branch Lengths pHCM2", xlab = "Branch Length", ylab = "Frequency", breaks = seq(0, max(branch_lengths) + 1, by = 1))
+
+write.tree(tree2, "plasmid_families/IncFIB_pHCM2/ggCaller_core_output/modified_core_tree.nwk")
+
+```
+
+
+
+
