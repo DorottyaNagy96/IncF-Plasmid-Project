@@ -1,0 +1,1203 @@
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.1draft/viz">
+<graph mode="static" defaultedgetype="undirected">
+<attributes class="node">
+<attribute id="D-value" title="D-value" type="double"/>
+</attributes>
+<attributes class="edge">
+</attributes>
+<nodes>
+<node id="group_101" label="group_101">
+ <attvalues>
+  <attvalue for="D-value" value="-0.067520"/>
+ </attvalues>
+<viz:color hex="#f386ff"/><viz:size value="19.864959" /></node>
+<node id="group_104" label="group_104">
+ <attvalues>
+  <attvalue for="D-value" value="-0.023781"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.952438" /></node>
+<node id="group_107" label="group_107">
+ <attvalues>
+  <attvalue for="D-value" value="-0.045382"/>
+ </attvalues>
+<viz:color hex="#ff9dd6"/><viz:size value="19.909237" /></node>
+<node id="group_108" label="group_108">
+ <attvalues>
+  <attvalue for="D-value" value="-0.110392"/>
+ </attvalues>
+<viz:color hex="#ace967"/><viz:size value="19.779216" /></node>
+<node id="group_113" label="group_113">
+ <attvalues>
+  <attvalue for="D-value" value="0.248318"/>
+ </attvalues>
+<viz:color hex="#e56800"/><viz:size value="20.496636" /></node>
+<node id="group_124" label="group_124">
+ <attvalues>
+  <attvalue for="D-value" value="-0.138340"/>
+ </attvalues>
+<viz:color hex="#ff9dd6"/><viz:size value="19.723321" /></node>
+<node id="group_136" label="group_136">
+ <attvalues>
+  <attvalue for="D-value" value="0.081744"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="20.163489" /></node>
+<node id="group_139" label="group_139">
+ <attvalues>
+  <attvalue for="D-value" value="-0.222317"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.555366" /></node>
+<node id="group_146" label="group_146">
+ <attvalues>
+  <attvalue for="D-value" value="-0.177794"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.644411" /></node>
+<node id="group_147" label="group_147">
+ <attvalues>
+  <attvalue for="D-value" value="0.086964"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="20.173929" /></node>
+<node id="group_151" label="group_151">
+ <attvalues>
+  <attvalue for="D-value" value="-0.121699"/>
+ </attvalues>
+<viz:color hex="#d57600"/><viz:size value="19.756602" /></node>
+<node id="group_167" label="group_167">
+ <attvalues>
+  <attvalue for="D-value" value="-0.104898"/>
+ </attvalues>
+<viz:color hex="#d57600"/><viz:size value="19.790204" /></node>
+<node id="group_173" label="group_173">
+ <attvalues>
+  <attvalue for="D-value" value="-0.259100"/>
+ </attvalues>
+<viz:color hex="#e3db00"/><viz:size value="19.481800" /></node>
+<node id="group_179" label="group_179">
+ <attvalues>
+  <attvalue for="D-value" value="-0.137660"/>
+ </attvalues>
+<viz:color hex="#00bf72"/><viz:size value="19.724681" /></node>
+<node id="group_18" label="group_18">
+ <attvalues>
+  <attvalue for="D-value" value="-0.430507"/>
+ </attvalues>
+<viz:color hex="#00bf72"/><viz:size value="19.138986" /></node>
+<node id="group_188" label="group_188">
+ <attvalues>
+  <attvalue for="D-value" value="-0.350438"/>
+ </attvalues>
+<viz:color hex="#006695"/><viz:size value="19.299124" /></node>
+<node id="group_190" label="group_190">
+ <attvalues>
+  <attvalue for="D-value" value="-0.248805"/>
+ </attvalues>
+<viz:color hex="#e3db00"/><viz:size value="19.502390" /></node>
+<node id="group_195" label="group_195">
+ <attvalues>
+  <attvalue for="D-value" value="-0.186098"/>
+ </attvalues>
+<viz:color hex="#0094f7"/><viz:size value="19.627803" /></node>
+<node id="group_197" label="group_197">
+ <attvalues>
+  <attvalue for="D-value" value="-0.286937"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.426126" /></node>
+<node id="group_202" label="group_202">
+ <attvalues>
+  <attvalue for="D-value" value="-0.331892"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.336217" /></node>
+<node id="group_207" label="group_207">
+ <attvalues>
+  <attvalue for="D-value" value="-0.325188"/>
+ </attvalues>
+<viz:color hex="#ff9dd6"/><viz:size value="19.349624" /></node>
+<node id="group_21" label="group_21">
+ <attvalues>
+  <attvalue for="D-value" value="-0.145763"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.708474" /></node>
+<node id="group_211" label="group_211">
+ <attvalues>
+  <attvalue for="D-value" value="-0.300708"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.398585" /></node>
+<node id="group_219" label="group_219">
+ <attvalues>
+  <attvalue for="D-value" value="0.592976"/>
+ </attvalues>
+<viz:color hex="#001106"/><viz:size value="21.185953" /></node>
+<node id="group_220" label="group_220">
+ <attvalues>
+  <attvalue for="D-value" value="-0.012348"/>
+ </attvalues>
+<viz:color hex="#e3db00"/><viz:size value="19.975304" /></node>
+<node id="group_224" label="group_224">
+ <attvalues>
+  <attvalue for="D-value" value="-0.277973"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.444054" /></node>
+<node id="group_227" label="group_227">
+ <attvalues>
+  <attvalue for="D-value" value="-0.189607"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.620786" /></node>
+<node id="group_228" label="group_228">
+ <attvalues>
+  <attvalue for="D-value" value="-0.140672"/>
+ </attvalues>
+<viz:color hex="#20000a"/><viz:size value="19.718657" /></node>
+<node id="group_231" label="group_231">
+ <attvalues>
+  <attvalue for="D-value" value="-0.094557"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.810886" /></node>
+<node id="group_234" label="group_234">
+ <attvalues>
+  <attvalue for="D-value" value="-0.158069"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.683862" /></node>
+<node id="group_249" label="group_249">
+ <attvalues>
+  <attvalue for="D-value" value="-0.250237"/>
+ </attvalues>
+<viz:color hex="#006695"/><viz:size value="19.499525" /></node>
+<node id="group_25" label="group_25">
+ <attvalues>
+  <attvalue for="D-value" value="-0.093500"/>
+ </attvalues>
+<viz:color hex="#f386ff"/><viz:size value="19.812999" /></node>
+<node id="group_252" label="group_252">
+ <attvalues>
+  <attvalue for="D-value" value="0.279921"/>
+ </attvalues>
+<viz:color hex="#01ca10"/><viz:size value="20.559843" /></node>
+<node id="group_253" label="group_253">
+ <attvalues>
+  <attvalue for="D-value" value="-0.184961"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.630078" /></node>
+<node id="group_254" label="group_254">
+ <attvalues>
+  <attvalue for="D-value" value="-0.119270"/>
+ </attvalues>
+<viz:color hex="#ace967"/><viz:size value="19.761459" /></node>
+<node id="group_261" label="group_261">
+ <attvalues>
+  <attvalue for="D-value" value="-0.383212"/>
+ </attvalues>
+<viz:color hex="#ff5bf7"/><viz:size value="19.233576" /></node>
+<node id="group_262" label="group_262">
+ <attvalues>
+  <attvalue for="D-value" value="-0.424460"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.151080" /></node>
+<node id="group_263" label="group_263">
+ <attvalues>
+  <attvalue for="D-value" value="0.228888"/>
+ </attvalues>
+<viz:color hex="#0005a7"/><viz:size value="20.457777" /></node>
+<node id="group_264" label="group_264">
+ <attvalues>
+  <attvalue for="D-value" value="-0.148010"/>
+ </attvalues>
+<viz:color hex="#20000a"/><viz:size value="19.703979" /></node>
+<node id="group_265" label="group_265">
+ <attvalues>
+  <attvalue for="D-value" value="-0.145621"/>
+ </attvalues>
+<viz:color hex="#20000a"/><viz:size value="19.708758" /></node>
+<node id="group_266" label="group_266">
+ <attvalues>
+  <attvalue for="D-value" value="0.001566"/>
+ </attvalues>
+<viz:color hex="#e3db00"/><viz:size value="20.003133" /></node>
+<node id="group_267" label="group_267">
+ <attvalues>
+  <attvalue for="D-value" value="-0.106756"/>
+ </attvalues>
+<viz:color hex="#20000a"/><viz:size value="19.786488" /></node>
+<node id="group_275" label="group_275">
+ <attvalues>
+  <attvalue for="D-value" value="-0.127691"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.744619" /></node>
+<node id="group_30" label="group_30">
+ <attvalues>
+  <attvalue for="D-value" value="-0.079493"/>
+ </attvalues>
+<viz:color hex="#f386ff"/><viz:size value="19.841014" /></node>
+<node id="group_34" label="group_34">
+ <attvalues>
+  <attvalue for="D-value" value="-0.346373"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.307254" /></node>
+<node id="group_36" label="group_36">
+ <attvalues>
+  <attvalue for="D-value" value="-0.512402"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="18.975195" /></node>
+<node id="group_37" label="group_37">
+ <attvalues>
+  <attvalue for="D-value" value="-0.233825"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.532350" /></node>
+<node id="group_39" label="group_39">
+ <attvalues>
+  <attvalue for="D-value" value="-0.265450"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.469099" /></node>
+<node id="group_41" label="group_41">
+ <attvalues>
+  <attvalue for="D-value" value="0.001279"/>
+ </attvalues>
+<viz:color hex="#0245ec"/><viz:size value="20.002558" /></node>
+<node id="group_42" label="group_42">
+ <attvalues>
+  <attvalue for="D-value" value="-0.109465"/>
+ </attvalues>
+<viz:color hex="#20000a"/><viz:size value="19.781071" /></node>
+<node id="group_484" label="group_484">
+ <attvalues>
+  <attvalue for="D-value" value="-0.351895"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.296210" /></node>
+<node id="group_49" label="group_49">
+ <attvalues>
+  <attvalue for="D-value" value="-0.254926"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.490147" /></node>
+<node id="group_495" label="group_495">
+ <attvalues>
+  <attvalue for="D-value" value="-0.386340"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.227319" /></node>
+<node id="group_501" label="group_501">
+ <attvalues>
+  <attvalue for="D-value" value="-0.190167"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.619667" /></node>
+<node id="group_507" label="group_507">
+ <attvalues>
+  <attvalue for="D-value" value="-0.104264"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.791471" /></node>
+<node id="group_508" label="group_508">
+ <attvalues>
+  <attvalue for="D-value" value="-0.131031"/>
+ </attvalues>
+<viz:color hex="#840019"/><viz:size value="19.737938" /></node>
+<node id="group_509" label="group_509">
+ <attvalues>
+  <attvalue for="D-value" value="-0.368380"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.263239" /></node>
+<node id="group_51" label="group_51">
+ <attvalues>
+  <attvalue for="D-value" value="-0.124137"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.751725" /></node>
+<node id="group_510" label="group_510">
+ <attvalues>
+  <attvalue for="D-value" value="-0.195575"/>
+ </attvalues>
+<viz:color hex="#ff9dd6"/><viz:size value="19.608851" /></node>
+<node id="group_522" label="group_522">
+ <attvalues>
+  <attvalue for="D-value" value="0.000373"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="20.000746" /></node>
+<node id="group_535" label="group_535">
+ <attvalues>
+  <attvalue for="D-value" value="0.011881"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="20.023761" /></node>
+<node id="group_536" label="group_536">
+ <attvalues>
+  <attvalue for="D-value" value="-0.784317"/>
+ </attvalues>
+<viz:color hex="#b9007e"/><viz:size value="18.431367" /></node>
+<node id="group_557" label="group_557">
+ <attvalues>
+  <attvalue for="D-value" value="-0.250483"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.499033" /></node>
+<node id="group_56" label="group_56">
+ <attvalues>
+  <attvalue for="D-value" value="-0.385360"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.229280" /></node>
+<node id="group_566" label="group_566">
+ <attvalues>
+  <attvalue for="D-value" value="-0.588562"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="18.822876" /></node>
+<node id="group_57" label="group_57">
+ <attvalues>
+  <attvalue for="D-value" value="-0.204069"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.591862" /></node>
+<node id="group_579" label="group_579">
+ <attvalues>
+  <attvalue for="D-value" value="-0.069874"/>
+ </attvalues>
+<viz:color hex="#00bf72"/><viz:size value="19.860251" /></node>
+<node id="group_585" label="group_585">
+ <attvalues>
+  <attvalue for="D-value" value="-0.234272"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.531457" /></node>
+<node id="group_59" label="group_59">
+ <attvalues>
+  <attvalue for="D-value" value="-0.044315"/>
+ </attvalues>
+<viz:color hex="#ff9dd6"/><viz:size value="19.911369" /></node>
+<node id="group_591" label="group_591">
+ <attvalues>
+  <attvalue for="D-value" value="-0.161311"/>
+ </attvalues>
+<viz:color hex="#840019"/><viz:size value="19.677377" /></node>
+<node id="group_592" label="group_592">
+ <attvalues>
+  <attvalue for="D-value" value="0.367010"/>
+ </attvalues>
+<viz:color hex="#7c0051"/><viz:size value="20.734021" /></node>
+<node id="group_599" label="group_599">
+ <attvalues>
+  <attvalue for="D-value" value="-0.319466"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.361068" /></node>
+<node id="group_60" label="group_60">
+ <attvalues>
+  <attvalue for="D-value" value="-0.142549"/>
+ </attvalues>
+<viz:color hex="#00bf72"/><viz:size value="19.714901" /></node>
+<node id="group_600" label="group_600">
+ <attvalues>
+  <attvalue for="D-value" value="-0.028942"/>
+ </attvalues>
+<viz:color hex="#00bf72"/><viz:size value="19.942116" /></node>
+<node id="group_607" label="group_607">
+ <attvalues>
+  <attvalue for="D-value" value="0.098571"/>
+ </attvalues>
+<viz:color hex="#e56800"/><viz:size value="20.197142" /></node>
+<node id="group_609" label="group_609">
+ <attvalues>
+  <attvalue for="D-value" value="-0.098889"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.802221" /></node>
+<node id="group_620" label="group_620">
+ <attvalues>
+  <attvalue for="D-value" value="-0.028848"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.942304" /></node>
+<node id="group_622" label="group_622">
+ <attvalues>
+  <attvalue for="D-value" value="-0.388585"/>
+ </attvalues>
+<viz:color hex="#ff5bf7"/><viz:size value="19.222829" /></node>
+<node id="group_63" label="group_63">
+ <attvalues>
+  <attvalue for="D-value" value="-0.383051"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.233897" /></node>
+<node id="group_638" label="group_638">
+ <attvalues>
+  <attvalue for="D-value" value="-0.304971"/>
+ </attvalues>
+<viz:color hex="#ff9dd6"/><viz:size value="19.390058" /></node>
+<node id="group_644" label="group_644">
+ <attvalues>
+  <attvalue for="D-value" value="0.595955"/>
+ </attvalues>
+<viz:color hex="#001106"/><viz:size value="21.191910" /></node>
+<node id="group_669" label="group_669">
+ <attvalues>
+  <attvalue for="D-value" value="-0.057176"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.885648" /></node>
+<node id="group_67" label="group_67">
+ <attvalues>
+  <attvalue for="D-value" value="-0.200940"/>
+ </attvalues>
+<viz:color hex="#0094f7"/><viz:size value="19.598119" /></node>
+<node id="group_673" label="group_673">
+ <attvalues>
+  <attvalue for="D-value" value="-0.045856"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.908287" /></node>
+<node id="group_678" label="group_678">
+ <attvalues>
+  <attvalue for="D-value" value="-0.340441"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="19.319118" /></node>
+<node id="group_682" label="group_682">
+ <attvalues>
+  <attvalue for="D-value" value="0.116284"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="20.232568" /></node>
+<node id="group_683" label="group_683">
+ <attvalues>
+  <attvalue for="D-value" value="-0.062282"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.875436" /></node>
+<node id="group_71" label="group_71">
+ <attvalues>
+  <attvalue for="D-value" value="0.047573"/>
+ </attvalues>
+<viz:color hex="#76c3ff"/><viz:size value="20.095147" /></node>
+<node id="group_77" label="group_77">
+ <attvalues>
+  <attvalue for="D-value" value="0.324706"/>
+ </attvalues>
+<viz:color hex="#01ca10"/><viz:size value="20.649412" /></node>
+<node id="group_79" label="group_79">
+ <attvalues>
+  <attvalue for="D-value" value="-0.453212"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.093577" /></node>
+<node id="group_83" label="group_83">
+ <attvalues>
+  <attvalue for="D-value" value="-0.252834"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.494331" /></node>
+<node id="group_85" label="group_85">
+ <attvalues>
+  <attvalue for="D-value" value="0.178042"/>
+ </attvalues>
+<viz:color hex="#0005a7"/><viz:size value="20.356084" /></node>
+<node id="group_88" label="group_88">
+ <attvalues>
+  <attvalue for="D-value" value="-0.434730"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.130539" /></node>
+<node id="group_90" label="group_90">
+ <attvalues>
+  <attvalue for="D-value" value="-0.117120"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="19.765760" /></node>
+<node id="group_92" label="group_92">
+ <attvalues>
+  <attvalue for="D-value" value="-0.325251"/>
+ </attvalues>
+<viz:color hex="#006695"/><viz:size value="19.349499" /></node>
+<node id="group_97" label="group_97">
+ <attvalues>
+  <attvalue for="D-value" value="0.169176"/>
+ </attvalues>
+<viz:color hex="#e56800"/><viz:size value="20.338353" /></node>
+<node id="group_98" label="group_98">
+ <attvalues>
+  <attvalue for="D-value" value="0.067649"/>
+ </attvalues>
+<viz:color hex="#0a3700"/><viz:size value="20.135297" /></node>
+<node id="sp.A1JLA4.DNLJ_YERE8...sp.A4SYV5.DNLJ_POLAQ...sp.Q6D165.DNLJ_PECAS" label="sp.A1JLA4.DNLJ_YERE8...sp.A4SYV5.DNLJ_POLAQ...sp.Q6D165.DNLJ_PECAS">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#671a00"/><viz:size value="20.000000" /></node>
+<node id="sp.P03009.TRA2_ECOLX" label="sp.P03009.TRA2_ECOLX">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#7c0051"/><viz:size value="20.000000" /></node>
+<node id="sp.P0C1G2.TNR7_ECOLX" label="sp.P0C1G2.TNR7_ECOLX">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#76c3ff"/><viz:size value="20.000000" /></node>
+<node id="sp.P10484.T1M1_ECOLX...sp.Q47163.T1MP_ECOLX" label="sp.P10484.T1M1_ECOLX...sp.Q47163.T1MP_ECOLX">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#00bf72"/><viz:size value="20.000000" /></node>
+<node id="sp.P10486.T1R1_ECOLX" label="sp.P10486.T1R1_ECOLX">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#00bf72"/><viz:size value="20.000000" /></node>
+<node id="sp.P14307.YSMA_SERMA" label="sp.P14307.YSMA_SERMA">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#006695"/><viz:size value="20.000000" /></node>
+<node id="sp.P51565.TNP9_ECOLX...sp.P06695.TNP5_PSEAI" label="sp.P51565.TNP9_ECOLX...sp.P06695.TNP5_PSEAI">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#76c3ff"/><viz:size value="20.000000" /></node>
+<node id="sp.P74007.SPOT_SYNY3" label="sp.P74007.SPOT_SYNY3">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#e56800"/><viz:size value="20.000000" /></node>
+<node id="sp.Q00042.TNPX_ECOLI" label="sp.Q00042.TNPX_ECOLI">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#0094f7"/><viz:size value="20.000000" /></node>
+<node id="sp.Q47688.YKFC_ECOLI" label="sp.Q47688.YKFC_ECOLI">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#001106"/><viz:size value="20.000000" /></node>
+<node id="sp.Q7V395.MNME_PROMP...sp.B0KBA1.ENGB_THEP3" label="sp.Q7V395.MNME_PROMP...sp.B0KBA1.ENGB_THEP3">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#b9007e"/><viz:size value="20.000000" /></node>
+<node id="sp.Q9ZJ24.YF88_HELPJ...sp.P75617.YAAW_ECOLI" label="sp.Q9ZJ24.YF88_HELPJ...sp.P75617.YAAW_ECOLI">
+ <attvalues>
+  <attvalue for="D-value" value="0.000000"/>
+ </attvalues>
+<viz:color hex="#0245ec"/><viz:size value="20.000000" /></node>
+</nodes>
+<edges>
+<edge id="0" label="0.000000" source="group_101" target="group_30" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="1" label="0.000000" source="group_101" target="group_25" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="2" label="0.000000" source="group_104" target="group_90" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="3" label="0.000000" source="group_104" target="group_51" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="4" label="0.000000" source="group_107" target="group_59" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="5" label="0.000000" source="group_108" target="group_254" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="6" label="0.000001" source="group_113" target="group_607" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="7" label="0.000000" source="group_113" target="group_97" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="8" label="0.000000" source="group_113" target="sp.P74007.SPOT_SYNY3" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="9" label="0.000000" source="group_124" target="group_638" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="10" label="0.000000" source="group_124" target="group_207" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="11" label="0.000000" source="group_124" target="group_510" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="12" label="0.000000" source="group_136" target="group_147" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="13" label="0.000000" source="group_136" target="group_535" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="14" label="0.000000" source="group_136" target="group_682" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="15" label="0.000000" source="group_136" target="group_522" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="16" label="0.000000" source="group_139" target="group_37" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="17" label="0.000000" source="group_139" target="group_501" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="18" label="0.000000" source="group_139" target="group_585" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="19" label="0.000000" source="group_146" target="group_275" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="20" label="0.000000" source="group_147" target="group_535" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="21" label="0.000000" source="group_147" target="group_682" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="22" label="0.000000" source="group_147" target="group_522" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="23" label="0.000000" source="group_151" target="group_167" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="24" label="0.000000" source="group_173" target="group_266" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="25" label="0.000000" source="group_173" target="group_220" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="26" label="0.000000" source="group_173" target="group_190" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="27" label="0.000000" source="group_179" target="sp.P10484.T1M1_ECOLX...sp.Q47163.T1MP_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="28" label="0.000000" source="group_179" target="sp.P10486.T1R1_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="29" label="0.000000" source="group_179" target="group_60" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="30" label="0.000000" source="group_179" target="group_600" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="31" label="0.000001" source="group_18" target="group_60" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="32" label="0.000001" source="group_188" target="group_249" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="33" label="0.000000" source="group_188" target="sp.P14307.YSMA_SERMA" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="34" label="0.000000" source="group_188" target="group_92" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="35" label="0.000000" source="group_190" target="group_266" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="36" label="0.000000" source="group_190" target="group_220" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="37" label="0.000001" source="group_195" target="sp.Q00042.TNPX_ECOLI" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="38" label="0.000000" source="group_197" target="group_231" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="39" label="0.000000" source="group_197" target="group_253" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="40" label="0.000000" source="group_197" target="group_227" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="41" label="0.000000" source="group_197" target="group_599" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="42" label="0.000001" source="group_197" target="group_495" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="43" label="0.000000" source="group_202" target="group_262" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="44" label="0.000000" source="group_202" target="group_224" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="45" label="0.000000" source="group_202" target="group_39" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="46" label="0.000000" source="group_202" target="group_34" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="47" label="0.000000" source="group_202" target="group_678" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="48" label="0.000000" source="group_207" target="group_59" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="49" label="0.000000" source="group_207" target="group_510" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="50" label="0.000001" source="group_21" target="group_275" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="51" label="0.000000" source="group_21" target="group_620" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="52" label="0.000000" source="group_21" target="group_88" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="53" label="0.000000" source="group_21" target="group_79" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="54" label="0.000000" source="group_211" target="group_83" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="55" label="0.000000" source="group_211" target="group_88" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="56" label="0.000000" source="group_211" target="group_79" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="57" label="0.000000" source="group_211" target="group_566" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="58" label="0.000000" source="group_211" target="group_509" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="59" label="0.000000" source="group_219" target="sp.Q47688.YKFC_ECOLI" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="60" label="0.000000" source="group_219" target="group_644" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="61" label="0.000000" source="group_220" target="group_266" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="62" label="0.000000" source="group_224" target="group_262" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="63" label="0.000000" source="group_224" target="group_39" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="64" label="0.000000" source="group_224" target="group_34" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="65" label="0.000000" source="group_224" target="group_678" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="66" label="0.000000" source="group_227" target="group_231" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="67" label="0.000000" source="group_227" target="group_253" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="68" label="0.000000" source="group_227" target="group_599" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="69" label="0.000001" source="group_228" target="group_265" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="70" label="0.000001" source="group_228" target="group_264" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="71" label="0.000001" source="group_228" target="group_267" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="72" label="0.000001" source="group_228" target="group_42" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="73" label="0.000001" source="group_231" target="group_51" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="74" label="0.000000" source="group_231" target="group_253" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="75" label="0.000000" source="group_231" target="group_599" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="76" label="0.000000" source="group_234" target="group_509" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="77" label="0.000001" source="group_249" target="sp.P14307.YSMA_SERMA" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="78" label="0.000001" source="group_249" target="group_92" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="79" label="0.000000" source="group_25" target="group_30" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="80" label="0.000000" source="group_252" target="group_77" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="81" label="0.000000" source="group_253" target="group_599" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="82" label="0.000000" source="group_261" target="group_622" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="83" label="0.000000" source="group_262" target="group_39" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="84" label="0.000000" source="group_262" target="group_34" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="85" label="0.000000" source="group_262" target="group_678" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="86" label="0.000000" source="group_263" target="group_85" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="87" label="0.000001" source="group_264" target="group_265" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="88" label="0.000001" source="group_264" target="group_267" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="89" label="0.000001" source="group_264" target="group_42" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="90" label="0.000001" source="group_265" target="group_267" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="91" label="0.000001" source="group_265" target="group_42" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="92" label="0.000001" source="group_34" target="group_682" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="93" label="0.000000" source="group_34" target="group_39" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="94" label="0.000000" source="group_34" target="group_507" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="95" label="0.000001" source="group_34" target="group_57" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="96" label="0.000000" source="group_34" target="group_98" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="97" label="0.000000" source="group_34" target="group_678" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="98" label="0.000001" source="group_36" target="group_669" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="99" label="0.000000" source="group_36" target="group_49" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="100" label="0.000000" source="group_36" target="group_620" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="101" label="0.000001" source="group_37" target="group_673" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="102" label="0.000000" source="group_37" target="group_501" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="103" label="0.000000" source="group_37" target="group_585" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="104" label="0.000000" source="group_39" target="group_678" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="105" label="0.000000" source="group_41" target="sp.Q9ZJ24.YF88_HELPJ...sp.P75617.YAAW_ECOLI" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="106" label="0.000000" source="group_484" target="group_557" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="107" label="0.000001" source="group_484" target="sp.A1JLA4.DNLJ_YERE8...sp.A4SYV5.DNLJ_POLAQ...sp.Q6D165.DNLJ_PECAS" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="108" label="0.000000" source="group_484" target="group_566" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="109" label="0.000000" source="group_49" target="sp.A1JLA4.DNLJ_YERE8...sp.A4SYV5.DNLJ_POLAQ...sp.Q6D165.DNLJ_PECAS" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="110" label="0.000000" source="group_49" target="group_620" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="111" label="0.000000" source="group_495" target="group_509" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="112" label="0.000000" source="group_501" target="group_585" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="113" label="0.000000" source="group_507" target="group_678" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="114" label="0.000000" source="group_508" target="group_591" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="115" label="0.000000" source="group_509" target="group_83" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="116" label="0.000000" source="group_509" target="group_88" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="117" label="0.000000" source="group_509" target="group_79" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="118" label="0.000000" source="group_509" target="group_566" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="119" label="0.000000" source="group_509" target="group_63" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="120" label="0.000000" source="group_509" target="group_56" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="121" label="0.000000" source="group_51" target="group_90" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="122" label="0.000000" source="group_522" target="group_535" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="123" label="0.000000" source="group_535" target="group_682" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="124" label="0.000001" source="group_535" target="group_678" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="125" label="0.000000" source="group_536" target="sp.Q7V395.MNME_PROMP...sp.B0KBA1.ENGB_THEP3" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="126" label="0.000001" source="group_557" target="group_566" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="127" label="0.000001" source="group_56" target="group_88" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="128" label="0.000001" source="group_56" target="group_79" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="129" label="0.000000" source="group_56" target="group_566" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="130" label="0.000000" source="group_56" target="group_63" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="131" label="0.000001" source="group_566" target="group_609" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="132" label="0.000000" source="group_566" target="sp.A1JLA4.DNLJ_YERE8...sp.A4SYV5.DNLJ_POLAQ...sp.Q6D165.DNLJ_PECAS" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="133" label="0.000000" source="group_566" target="group_683" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="134" label="0.000000" source="group_566" target="group_83" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="135" label="0.000000" source="group_566" target="group_88" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="136" label="0.000000" source="group_566" target="group_79" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="137" label="0.000000" source="group_566" target="group_63" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="138" label="0.000001" source="group_579" target="group_60" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="139" label="0.000000" source="group_585" target="group_88" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="140" label="0.000000" source="group_585" target="group_79" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="141" label="0.000000" source="group_592" target="sp.P03009.TRA2_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="142" label="0.000000" source="group_60" target="sp.P10484.T1M1_ECOLX...sp.Q47163.T1MP_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="143" label="0.000000" source="group_60" target="sp.P10486.T1R1_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="144" label="0.000000" source="group_600" target="sp.P10484.T1M1_ECOLX...sp.Q47163.T1MP_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="145" label="0.000000" source="group_600" target="sp.P10486.T1R1_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="146" label="0.000000" source="group_607" target="group_97" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="147" label="0.000000" source="group_607" target="sp.P74007.SPOT_SYNY3" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="148" label="0.000000" source="group_609" target="group_683" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="149" label="0.000001" source="group_63" target="group_88" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="150" label="0.000001" source="group_63" target="group_79" weight="1.999998"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="151" label="0.000000" source="group_644" target="sp.Q47688.YKFC_ECOLI" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="152" label="0.000000" source="group_67" target="sp.Q00042.TNPX_ECOLI" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="153" label="0.000001" source="group_71" target="sp.P51565.TNP9_ECOLX...sp.P06695.TNP5_PSEAI" weight="1.999999"> <attvalues>
+  <attvalue for="p-value" value="0.000001"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="154" label="0.000000" source="group_79" target="group_83" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="155" label="0.000000" source="group_79" target="group_88" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="156" label="0.000000" source="group_83" target="group_88" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="157" label="0.000000" source="group_92" target="sp.P14307.YSMA_SERMA" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="158" label="0.000000" source="group_97" target="sp.P74007.SPOT_SYNY3" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="159" label="0.000000" source="sp.P0C1G2.TNR7_ECOLX" target="sp.P51565.TNP9_ECOLX...sp.P06695.TNP5_PSEAI" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+<edge id="160" label="0.000000" source="sp.P10484.T1M1_ECOLX...sp.Q47163.T1MP_ECOLX" target="sp.P10486.T1R1_ECOLX" weight="2.000000"> <attvalues>
+  <attvalue for="p-value" value="0.000000"/>
+ </attvalues>
+<viz:color r="146" g="142" b="142"/></edge>
+
+</edges>
+</graph>
+</gexf>
