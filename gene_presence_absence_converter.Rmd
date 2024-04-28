@@ -2,24 +2,68 @@
 title: "gene_presence_absence_conversion"
 author: "Dorottya Nagy"
 date: "2024-03-27"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
+setwd("C:/Users/dnagy/OneDrive - Nexus365/Documents/DPhil Clin Medicine/DPhil/F-Plasmid Manuscript")
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
+```{r}
+#setwd("C:/Users/dnagy/OneDrive - Nexus365/Documents/DPhil Clin Medicine/DPhil/F-Plasmid Manuscript")
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+IncFIB_pKPHS1 <- read.table("plasmid_families/IncFIB_pKPHS1/ggCaller_core_output/gene_presence_absence.Rtab", header = TRUE, sep = "\t")
+IncFIB_pHCM2 <- read.table("plasmid_families/IncFIB_pHCM2/ggCaller_core_output/gene_presence_absence.Rtab", header = TRUE, sep = "\t")
 
+library(tidyr)
+#create a 2-column list of genomes and genes.
+IncFIB_pKPHS1_long <- pivot_longer(IncFIB_pKPHS1, 
+                           cols = -Gene,  
+                           names_to = "Genome", 
+                           values_to = "Presence",
+                           values_drop_na = TRUE) 
+IncFIB_pKPHS1_long <- IncFIB_pKPHS1_long[IncFIB_pKPHS1_long$Presence == 1, ]
+IncFIB_pKPHS1_long <- IncFIB_pKPHS1_long[, c("Gene", "Genome")]
 
-## R Markdown
+file_path <- "gene_list_IncFIB_pKPHS1.txt"
+write.table(IncFIB_pKPHS1_long, file = file_path, quote = FALSE, row.names = FALSE)
+cat("Table has been exported to", file_path, "\n")
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
 ```
 
+Now try to calculate Jaccard index:
+```{r}
+
+calculate_distance <- function(df) {
+  n <- ncol(df)
+  distance_matrix <- matrix(0, ncol = n-1, nrow = n-1, dimnames = list(colnames(df[2:ncol(df)]), colnames(df[2:ncol(df)])))
+  
+  for (i in 2:n) {
+    for (j in 2:n) {
+      intersection <- sum(df[,i] == 1 & df[,j] == 1)
+      union <- sum(df[,i] == 1 | df[,i] == 1)
+      jaccard_distance <- 1-(intersection/union)
+      
+      distance_matrix[(i-1), (j-1)] <- jaccard_distance
+      distance_matrix[(j-1), (i-1)] <- jaccard_distance
+    }
+  }
+  
+  return(distance_matrix)
+}
+
+# Calculate pairwise similarity matrix
+IncFIB_pKPHS1_distance_matrix <- calculate_distance(IncFIB_pKPHS1)
+IncFIB_pKPHS1_distance_average <- sum(unlist(IncFIB_pKPHS1_distance_matrix))/(nrow(IncFIB_pKPHS1_distance_matrix)^2-nrow(IncFIB_pKPHS1_distance_matrix))
+
+IncFIB_pHCM2_distance_matrix <- calculate_distance(IncFIB_pHCM2)
+IncFIB_pHCM2_distance_average <- sum(unlist(IncFIB_pHCM2_distance_matrix))/((nrow(IncFIB_pHCM2_distance_matrix)^2)-nrow(IncFIB_pHCM2_distance_matrix))
+
+print(IncFIB_pKPHS1_distance_average) #0.2265974
+print(IncFIB_pHCM2_distance_average) #0.367776
+
+```
